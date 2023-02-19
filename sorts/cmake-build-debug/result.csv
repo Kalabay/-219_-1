@@ -1,0 +1,2445 @@
+type_array,type_sort,n,time
+50-300 step=50 x = 0...5,selectionSort,50,4343
+50-300 step=50 x = 0...5,selectionSort,100,15637
+50-300 step=50 x = 0...5,selectionSort,150,31802
+50-300 step=50 x = 0...5,selectionSort,200,53987
+50-300 step=50 x = 0...5,selectionSort,250,82538
+50-300 step=50 x = 0...5,selectionSort,300,121899
+50-300 step=50 x = 0...4000,selectionSort,50,4046
+50-300 step=50 x = 0...4000,selectionSort,100,15840
+50-300 step=50 x = 0...4000,selectionSort,150,33011
+50-300 step=50 x = 0...4000,selectionSort,200,57557
+50-300 step=50 x = 0...4000,selectionSort,250,92061
+50-300 step=50 x = 0...4000,selectionSort,300,127117
+50-300 step=50 almost (+- 90% sort),selectionSort,50,3833
+50-300 step=50 almost (+- 90% sort),selectionSort,100,14042
+50-300 step=50 almost (+- 90% sort),selectionSort,150,30349
+50-300 step=50 almost (+- 90% sort),selectionSort,200,56234
+50-300 step=50 almost (+- 90% sort),selectionSort,250,83612
+50-300 step=50 almost (+- 90% sort),selectionSort,300,118949
+50-300 step=50 reverse,selectionSort,50,3854
+50-300 step=50 reverse,selectionSort,100,14218
+50-300 step=50 reverse,selectionSort,150,30073
+50-300 step=50 reverse,selectionSort,200,51689
+50-300 step=50 reverse,selectionSort,250,79209
+50-300 step=50 reverse,selectionSort,300,113849
+100-4000 step=100 x = 0...5,selectionSort,100,12097
+100-4000 step=100 x = 0...5,selectionSort,200,39300
+100-4000 step=100 x = 0...5,selectionSort,300,85711
+100-4000 step=100 x = 0...5,selectionSort,400,153017
+100-4000 step=100 x = 0...5,selectionSort,500,235215
+100-4000 step=100 x = 0...5,selectionSort,600,336723
+100-4000 step=100 x = 0...5,selectionSort,700,452999
+100-4000 step=100 x = 0...5,selectionSort,800,600886
+100-4000 step=100 x = 0...5,selectionSort,900,747516
+100-4000 step=100 x = 0...5,selectionSort,1000,919905
+100-4000 step=100 x = 0...5,selectionSort,1100,1112925
+100-4000 step=100 x = 0...5,selectionSort,1200,1321718
+100-4000 step=100 x = 0...5,selectionSort,1300,1543670
+100-4000 step=100 x = 0...5,selectionSort,1400,1799620
+100-4000 step=100 x = 0...5,selectionSort,1500,2054499
+100-4000 step=100 x = 0...5,selectionSort,1600,2331383
+100-4000 step=100 x = 0...5,selectionSort,1700,2635277
+100-4000 step=100 x = 0...5,selectionSort,1800,3202407
+100-4000 step=100 x = 0...5,selectionSort,1900,3286919
+100-4000 step=100 x = 0...5,selectionSort,2000,3705178
+100-4000 step=100 x = 0...5,selectionSort,2100,4005132
+100-4000 step=100 x = 0...5,selectionSort,2200,4410388
+100-4000 step=100 x = 0...5,selectionSort,2300,4821693
+100-4000 step=100 x = 0...5,selectionSort,2400,5321776
+100-4000 step=100 x = 0...5,selectionSort,2500,5742806
+100-4000 step=100 x = 0...5,selectionSort,2600,6199746
+100-4000 step=100 x = 0...5,selectionSort,2700,6658083
+100-4000 step=100 x = 0...5,selectionSort,2800,7164787
+100-4000 step=100 x = 0...5,selectionSort,2900,7734022
+100-4000 step=100 x = 0...5,selectionSort,3000,8227348
+100-4000 step=100 x = 0...5,selectionSort,3100,8739712
+100-4000 step=100 x = 0...5,selectionSort,3200,9354586
+100-4000 step=100 x = 0...5,selectionSort,3300,9940636
+100-4000 step=100 x = 0...5,selectionSort,3400,10737023
+100-4000 step=100 x = 0...5,selectionSort,3500,11180311
+100-4000 step=100 x = 0...5,selectionSort,3600,11824686
+100-4000 step=100 x = 0...5,selectionSort,3700,12504115
+100-4000 step=100 x = 0...5,selectionSort,3800,13240484
+100-4000 step=100 x = 0...5,selectionSort,3900,13876907
+100-4000 step=100 x = 0...5,selectionSort,4000,18792050
+100-4000 step=100 x = 0...5,selectionSort,4100,22279498
+100-4000 step=100 x = 0...4000,selectionSort,100,11377
+100-4000 step=100 x = 0...4000,selectionSort,200,42132
+100-4000 step=100 x = 0...4000,selectionSort,300,92142
+100-4000 step=100 x = 0...4000,selectionSort,400,158355
+100-4000 step=100 x = 0...4000,selectionSort,500,245733
+100-4000 step=100 x = 0...4000,selectionSort,600,349034
+100-4000 step=100 x = 0...4000,selectionSort,700,467017
+100-4000 step=100 x = 0...4000,selectionSort,800,618077
+100-4000 step=100 x = 0...4000,selectionSort,900,821873
+100-4000 step=100 x = 0...4000,selectionSort,1000,943729
+100-4000 step=100 x = 0...4000,selectionSort,1100,1137348
+100-4000 step=100 x = 0...4000,selectionSort,1200,1391523
+100-4000 step=100 x = 0...4000,selectionSort,1300,1576725
+100-4000 step=100 x = 0...4000,selectionSort,1400,1824134
+100-4000 step=100 x = 0...4000,selectionSort,1500,2130858
+100-4000 step=100 x = 0...4000,selectionSort,1600,2423500
+100-4000 step=100 x = 0...4000,selectionSort,1700,2734498
+100-4000 step=100 x = 0...4000,selectionSort,1800,3112918
+100-4000 step=100 x = 0...4000,selectionSort,1900,3420024
+100-4000 step=100 x = 0...4000,selectionSort,2000,3697933
+100-4000 step=100 x = 0...4000,selectionSort,2100,4077377
+100-4000 step=100 x = 0...4000,selectionSort,2200,4509589
+100-4000 step=100 x = 0...4000,selectionSort,2300,4920711
+100-4000 step=100 x = 0...4000,selectionSort,2400,5505399
+100-4000 step=100 x = 0...4000,selectionSort,2500,5792124
+100-4000 step=100 x = 0...4000,selectionSort,2600,6223218
+100-4000 step=100 x = 0...4000,selectionSort,2700,6765410
+100-4000 step=100 x = 0...4000,selectionSort,2800,7232704
+100-4000 step=100 x = 0...4000,selectionSort,2900,7783013
+100-4000 step=100 x = 0...4000,selectionSort,3000,8303869
+100-4000 step=100 x = 0...4000,selectionSort,3100,8850421
+100-4000 step=100 x = 0...4000,selectionSort,3200,9456637
+100-4000 step=100 x = 0...4000,selectionSort,3300,10035760
+100-4000 step=100 x = 0...4000,selectionSort,3400,10644954
+100-4000 step=100 x = 0...4000,selectionSort,3500,11277169
+100-4000 step=100 x = 0...4000,selectionSort,3600,11916625
+100-4000 step=100 x = 0...4000,selectionSort,3700,12598891
+100-4000 step=100 x = 0...4000,selectionSort,3800,13265453
+100-4000 step=100 x = 0...4000,selectionSort,3900,14012660
+100-4000 step=100 x = 0...4000,selectionSort,4000,14727837
+100-4000 step=100 x = 0...4000,selectionSort,4100,22903668
+100-4000 step=100 almost (+- 90% sort),selectionSort,100,12963
+100-4000 step=100 almost (+- 90% sort),selectionSort,200,38240
+100-4000 step=100 almost (+- 90% sort),selectionSort,300,89250
+100-4000 step=100 almost (+- 90% sort),selectionSort,400,152375
+100-4000 step=100 almost (+- 90% sort),selectionSort,500,232087
+100-4000 step=100 almost (+- 90% sort),selectionSort,600,369831
+100-4000 step=100 almost (+- 90% sort),selectionSort,700,458363
+100-4000 step=100 almost (+- 90% sort),selectionSort,800,597606
+100-4000 step=100 almost (+- 90% sort),selectionSort,900,776781
+100-4000 step=100 almost (+- 90% sort),selectionSort,1000,971321
+100-4000 step=100 almost (+- 90% sort),selectionSort,1100,1116359
+100-4000 step=100 almost (+- 90% sort),selectionSort,1200,1324268
+100-4000 step=100 almost (+- 90% sort),selectionSort,1300,1552654
+100-4000 step=100 almost (+- 90% sort),selectionSort,1400,1844166
+100-4000 step=100 almost (+- 90% sort),selectionSort,1500,2062712
+100-4000 step=100 almost (+- 90% sort),selectionSort,1600,2341979
+100-4000 step=100 almost (+- 90% sort),selectionSort,1700,2643739
+100-4000 step=100 almost (+- 90% sort),selectionSort,1800,2995348
+100-4000 step=100 almost (+- 90% sort),selectionSort,1900,3471352
+100-4000 step=100 almost (+- 90% sort),selectionSort,2000,3657824
+100-4000 step=100 almost (+- 90% sort),selectionSort,2100,4062093
+100-4000 step=100 almost (+- 90% sort),selectionSort,2200,4418339
+100-4000 step=100 almost (+- 90% sort),selectionSort,2300,4842217
+100-4000 step=100 almost (+- 90% sort),selectionSort,2400,5728666
+100-4000 step=100 almost (+- 90% sort),selectionSort,2500,5699223
+100-4000 step=100 almost (+- 90% sort),selectionSort,2600,6195740
+100-4000 step=100 almost (+- 90% sort),selectionSort,2700,6646302
+100-4000 step=100 almost (+- 90% sort),selectionSort,2800,7175810
+100-4000 step=100 almost (+- 90% sort),selectionSort,2900,8179969
+100-4000 step=100 almost (+- 90% sort),selectionSort,3000,8244226
+100-4000 step=100 almost (+- 90% sort),selectionSort,3100,8795785
+100-4000 step=100 almost (+- 90% sort),selectionSort,3200,9522093
+100-4000 step=100 almost (+- 90% sort),selectionSort,3300,9938125
+100-4000 step=100 almost (+- 90% sort),selectionSort,3400,10549246
+100-4000 step=100 almost (+- 90% sort),selectionSort,3500,11217536
+100-4000 step=100 almost (+- 90% sort),selectionSort,3600,11792966
+100-4000 step=100 almost (+- 90% sort),selectionSort,3700,12475484
+100-4000 step=100 almost (+- 90% sort),selectionSort,3800,13276695
+100-4000 step=100 almost (+- 90% sort),selectionSort,3900,13985643
+100-4000 step=100 almost (+- 90% sort),selectionSort,4000,15142352
+100-4000 step=100 almost (+- 90% sort),selectionSort,4100,23257303
+100-4000 step=100 reverse,selectionSort,100,10387
+100-4000 step=100 reverse,selectionSort,200,39891
+100-4000 step=100 reverse,selectionSort,300,82897
+100-4000 step=100 reverse,selectionSort,400,147313
+100-4000 step=100 reverse,selectionSort,500,229696
+100-4000 step=100 reverse,selectionSort,600,341182
+100-4000 step=100 reverse,selectionSort,700,439599
+100-4000 step=100 reverse,selectionSort,800,574564
+100-4000 step=100 reverse,selectionSort,900,739760
+100-4000 step=100 reverse,selectionSort,1000,897203
+100-4000 step=100 reverse,selectionSort,1100,1080544
+100-4000 step=100 reverse,selectionSort,1200,1282546
+100-4000 step=100 reverse,selectionSort,1300,1506982
+100-4000 step=100 reverse,selectionSort,1400,1757887
+100-4000 step=100 reverse,selectionSort,1500,2005477
+100-4000 step=100 reverse,selectionSort,1600,2293620
+100-4000 step=100 reverse,selectionSort,1700,2571959
+100-4000 step=100 reverse,selectionSort,1800,2880775
+100-4000 step=100 reverse,selectionSort,1900,3256963
+100-4000 step=100 reverse,selectionSort,2000,3599069
+100-4000 step=100 reverse,selectionSort,2100,3913824
+100-4000 step=100 reverse,selectionSort,2200,4349729
+100-4000 step=100 reverse,selectionSort,2300,4736156
+100-4000 step=100 reverse,selectionSort,2400,5153820
+100-4000 step=100 reverse,selectionSort,2500,5743597
+100-4000 step=100 reverse,selectionSort,2600,6012939
+100-4000 step=100 reverse,selectionSort,2700,6543987
+100-4000 step=100 reverse,selectionSort,2800,6965308
+100-4000 step=100 reverse,selectionSort,2900,7739552
+100-4000 step=100 reverse,selectionSort,3000,8019084
+100-4000 step=100 reverse,selectionSort,3100,8587962
+100-4000 step=100 reverse,selectionSort,3200,9195795
+100-4000 step=100 reverse,selectionSort,3300,9714939
+100-4000 step=100 reverse,selectionSort,3400,10343337
+100-4000 step=100 reverse,selectionSort,3500,10955193
+100-4000 step=100 reverse,selectionSort,3600,11570787
+100-4000 step=100 reverse,selectionSort,3700,12450752
+100-4000 step=100 reverse,selectionSort,3800,13222779
+100-4000 step=100 reverse,selectionSort,3900,13634253
+100-4000 step=100 reverse,selectionSort,4000,14284633
+100-4000 step=100 reverse,selectionSort,4100,20966811
+50-300 step=50 x = 0...5,bubbleSort,50,5082
+50-300 step=50 x = 0...5,bubbleSort,100,22872
+50-300 step=50 x = 0...5,bubbleSort,150,54251
+50-300 step=50 x = 0...5,bubbleSort,200,97721
+50-300 step=50 x = 0...5,bubbleSort,250,153897
+50-300 step=50 x = 0...5,bubbleSort,300,212851
+50-300 step=50 x = 0...4000,bubbleSort,50,6338
+50-300 step=50 x = 0...4000,bubbleSort,100,24870
+50-300 step=50 x = 0...4000,bubbleSort,150,61624
+50-300 step=50 x = 0...4000,bubbleSort,200,106155
+50-300 step=50 x = 0...4000,bubbleSort,250,162968
+50-300 step=50 x = 0...4000,bubbleSort,300,239466
+50-300 step=50 almost (+- 90% sort),bubbleSort,50,3181
+50-300 step=50 almost (+- 90% sort),bubbleSort,100,11452
+50-300 step=50 almost (+- 90% sort),bubbleSort,150,25947
+50-300 step=50 almost (+- 90% sort),bubbleSort,200,44522
+50-300 step=50 almost (+- 90% sort),bubbleSort,250,67928
+50-300 step=50 almost (+- 90% sort),bubbleSort,300,96647
+50-300 step=50 reverse,bubbleSort,50,8681
+50-300 step=50 reverse,bubbleSort,100,33922
+50-300 step=50 reverse,bubbleSort,150,77004
+50-300 step=50 reverse,bubbleSort,200,134062
+50-300 step=50 reverse,bubbleSort,250,211857
+50-300 step=50 reverse,bubbleSort,300,306011
+100-4000 step=100 x = 0...5,bubbleSort,100,22949
+100-4000 step=100 x = 0...5,bubbleSort,200,96833
+100-4000 step=100 x = 0...5,bubbleSort,300,216410
+100-4000 step=100 x = 0...5,bubbleSort,400,380711
+100-4000 step=100 x = 0...5,bubbleSort,500,592451
+100-4000 step=100 x = 0...5,bubbleSort,600,882497
+100-4000 step=100 x = 0...5,bubbleSort,700,1227997
+100-4000 step=100 x = 0...5,bubbleSort,800,1547183
+100-4000 step=100 x = 0...5,bubbleSort,900,1990883
+100-4000 step=100 x = 0...5,bubbleSort,1000,2488650
+100-4000 step=100 x = 0...5,bubbleSort,1100,3082166
+100-4000 step=100 x = 0...5,bubbleSort,1200,3718726
+100-4000 step=100 x = 0...5,bubbleSort,1300,4388939
+100-4000 step=100 x = 0...5,bubbleSort,1400,5141360
+100-4000 step=100 x = 0...5,bubbleSort,1500,6072040
+100-4000 step=100 x = 0...5,bubbleSort,1600,6813674
+100-4000 step=100 x = 0...5,bubbleSort,1700,7778200
+100-4000 step=100 x = 0...5,bubbleSort,1800,8726498
+100-4000 step=100 x = 0...5,bubbleSort,1900,10034399
+100-4000 step=100 x = 0...5,bubbleSort,2000,10822824
+100-4000 step=100 x = 0...5,bubbleSort,2100,12201308
+100-4000 step=100 x = 0...5,bubbleSort,2200,13292679
+100-4000 step=100 x = 0...5,bubbleSort,2300,14714021
+100-4000 step=100 x = 0...5,bubbleSort,2400,15958720
+100-4000 step=100 x = 0...5,bubbleSort,2500,17626458
+100-4000 step=100 x = 0...5,bubbleSort,2600,18963009
+100-4000 step=100 x = 0...5,bubbleSort,2700,20643684
+100-4000 step=100 x = 0...5,bubbleSort,2800,22204521
+100-4000 step=100 x = 0...5,bubbleSort,2900,24853314
+100-4000 step=100 x = 0...5,bubbleSort,3000,26004836
+100-4000 step=100 x = 0...5,bubbleSort,3100,27768368
+100-4000 step=100 x = 0...5,bubbleSort,3200,29677274
+100-4000 step=100 x = 0...5,bubbleSort,3300,31771999
+100-4000 step=100 x = 0...5,bubbleSort,3400,34120799
+100-4000 step=100 x = 0...5,bubbleSort,3500,35668259
+100-4000 step=100 x = 0...5,bubbleSort,3600,37766581
+100-4000 step=100 x = 0...5,bubbleSort,3700,40269337
+100-4000 step=100 x = 0...5,bubbleSort,3800,42254129
+100-4000 step=100 x = 0...5,bubbleSort,3900,44557350
+100-4000 step=100 x = 0...5,bubbleSort,4000,46969722
+100-4000 step=100 x = 0...5,bubbleSort,4100,49712903
+100-4000 step=100 x = 0...4000,bubbleSort,100,25091
+100-4000 step=100 x = 0...4000,bubbleSort,200,104548
+100-4000 step=100 x = 0...4000,bubbleSort,300,238523
+100-4000 step=100 x = 0...4000,bubbleSort,400,418647
+100-4000 step=100 x = 0...4000,bubbleSort,500,652332
+100-4000 step=100 x = 0...4000,bubbleSort,600,956823
+100-4000 step=100 x = 0...4000,bubbleSort,700,1404784
+100-4000 step=100 x = 0...4000,bubbleSort,800,1683073
+100-4000 step=100 x = 0...4000,bubbleSort,900,2164847
+100-4000 step=100 x = 0...4000,bubbleSort,1000,2696626
+100-4000 step=100 x = 0...4000,bubbleSort,1100,3281904
+100-4000 step=100 x = 0...4000,bubbleSort,1200,3921770
+100-4000 step=100 x = 0...4000,bubbleSort,1300,4648598
+100-4000 step=100 x = 0...4000,bubbleSort,1400,5428976
+100-4000 step=100 x = 0...4000,bubbleSort,1500,6405633
+100-4000 step=100 x = 0...4000,bubbleSort,1600,7165499
+100-4000 step=100 x = 0...4000,bubbleSort,1700,8162288
+100-4000 step=100 x = 0...4000,bubbleSort,1800,9230878
+100-4000 step=100 x = 0...4000,bubbleSort,1900,10410157
+100-4000 step=100 x = 0...4000,bubbleSort,2000,11576982
+100-4000 step=100 x = 0...4000,bubbleSort,2100,12749150
+100-4000 step=100 x = 0...4000,bubbleSort,2200,14056121
+100-4000 step=100 x = 0...4000,bubbleSort,2300,15481763
+100-4000 step=100 x = 0...4000,bubbleSort,2400,16911678
+100-4000 step=100 x = 0...4000,bubbleSort,2500,18521546
+100-4000 step=100 x = 0...4000,bubbleSort,2600,20058557
+100-4000 step=100 x = 0...4000,bubbleSort,2700,21716833
+100-4000 step=100 x = 0...4000,bubbleSort,2800,23711983
+100-4000 step=100 x = 0...4000,bubbleSort,2900,25655171
+100-4000 step=100 x = 0...4000,bubbleSort,3000,27126083
+100-4000 step=100 x = 0...4000,bubbleSort,3100,29101876
+100-4000 step=100 x = 0...4000,bubbleSort,3200,31186311
+100-4000 step=100 x = 0...4000,bubbleSort,3300,33387283
+100-4000 step=100 x = 0...4000,bubbleSort,3400,35648553
+100-4000 step=100 x = 0...4000,bubbleSort,3500,38089394
+100-4000 step=100 x = 0...4000,bubbleSort,3600,40401761
+100-4000 step=100 x = 0...4000,bubbleSort,3700,42686962
+100-4000 step=100 x = 0...4000,bubbleSort,3800,45751317
+100-4000 step=100 x = 0...4000,bubbleSort,3900,48535020
+100-4000 step=100 x = 0...4000,bubbleSort,4000,51046546
+100-4000 step=100 x = 0...4000,bubbleSort,4100,53403565
+100-4000 step=100 almost (+- 90% sort),bubbleSort,100,11416
+100-4000 step=100 almost (+- 90% sort),bubbleSort,200,45192
+100-4000 step=100 almost (+- 90% sort),bubbleSort,300,98391
+100-4000 step=100 almost (+- 90% sort),bubbleSort,400,172842
+100-4000 step=100 almost (+- 90% sort),bubbleSort,500,274818
+100-4000 step=100 almost (+- 90% sort),bubbleSort,600,394947
+100-4000 step=100 almost (+- 90% sort),bubbleSort,700,551502
+100-4000 step=100 almost (+- 90% sort),bubbleSort,800,689784
+100-4000 step=100 almost (+- 90% sort),bubbleSort,900,884085
+100-4000 step=100 almost (+- 90% sort),bubbleSort,1000,1086755
+100-4000 step=100 almost (+- 90% sort),bubbleSort,1100,1295784
+100-4000 step=100 almost (+- 90% sort),bubbleSort,1200,1578926
+100-4000 step=100 almost (+- 90% sort),bubbleSort,1300,1826984
+100-4000 step=100 almost (+- 90% sort),bubbleSort,1400,2108005
+100-4000 step=100 almost (+- 90% sort),bubbleSort,1500,2416887
+100-4000 step=100 almost (+- 90% sort),bubbleSort,1600,2741255
+100-4000 step=100 almost (+- 90% sort),bubbleSort,1700,3099748
+100-4000 step=100 almost (+- 90% sort),bubbleSort,1800,3463080
+100-4000 step=100 almost (+- 90% sort),bubbleSort,1900,4051973
+100-4000 step=100 almost (+- 90% sort),bubbleSort,2000,4286127
+100-4000 step=100 almost (+- 90% sort),bubbleSort,2100,4732325
+100-4000 step=100 almost (+- 90% sort),bubbleSort,2200,5183803
+100-4000 step=100 almost (+- 90% sort),bubbleSort,2300,5622219
+100-4000 step=100 almost (+- 90% sort),bubbleSort,2400,6161064
+100-4000 step=100 almost (+- 90% sort),bubbleSort,2500,6675353
+100-4000 step=100 almost (+- 90% sort),bubbleSort,2600,7221143
+100-4000 step=100 almost (+- 90% sort),bubbleSort,2700,7787331
+100-4000 step=100 almost (+- 90% sort),bubbleSort,2800,8293970
+100-4000 step=100 almost (+- 90% sort),bubbleSort,2900,9175092
+100-4000 step=100 almost (+- 90% sort),bubbleSort,3000,9631445
+100-4000 step=100 almost (+- 90% sort),bubbleSort,3100,10321819
+100-4000 step=100 almost (+- 90% sort),bubbleSort,3200,11013054
+100-4000 step=100 almost (+- 90% sort),bubbleSort,3300,11765952
+100-4000 step=100 almost (+- 90% sort),bubbleSort,3400,12478909
+100-4000 step=100 almost (+- 90% sort),bubbleSort,3500,13889063
+100-4000 step=100 almost (+- 90% sort),bubbleSort,3600,14054343
+100-4000 step=100 almost (+- 90% sort),bubbleSort,3700,14762311
+100-4000 step=100 almost (+- 90% sort),bubbleSort,3800,15542394
+100-4000 step=100 almost (+- 90% sort),bubbleSort,3900,16583773
+100-4000 step=100 almost (+- 90% sort),bubbleSort,4000,17226886
+100-4000 step=100 almost (+- 90% sort),bubbleSort,4100,18134707
+100-4000 step=100 reverse,bubbleSort,100,33983
+100-4000 step=100 reverse,bubbleSort,200,135409
+100-4000 step=100 reverse,bubbleSort,300,305796
+100-4000 step=100 reverse,bubbleSort,400,538960
+100-4000 step=100 reverse,bubbleSort,500,872607
+100-4000 step=100 reverse,bubbleSort,600,1209618
+100-4000 step=100 reverse,bubbleSort,700,1736796
+100-4000 step=100 reverse,bubbleSort,800,2151690
+100-4000 step=100 reverse,bubbleSort,900,2727373
+100-4000 step=100 reverse,bubbleSort,1000,3368255
+100-4000 step=100 reverse,bubbleSort,1100,4078702
+100-4000 step=100 reverse,bubbleSort,1200,4876200
+100-4000 step=100 reverse,bubbleSort,1300,5713666
+100-4000 step=100 reverse,bubbleSort,1400,6666160
+100-4000 step=100 reverse,bubbleSort,1500,7619472
+100-4000 step=100 reverse,bubbleSort,1600,8672253
+100-4000 step=100 reverse,bubbleSort,1700,9774377
+100-4000 step=100 reverse,bubbleSort,1800,10959224
+100-4000 step=100 reverse,bubbleSort,1900,12274877
+100-4000 step=100 reverse,bubbleSort,2000,14430508
+100-4000 step=100 reverse,bubbleSort,2100,14937628
+100-4000 step=100 reverse,bubbleSort,2200,16403221
+100-4000 step=100 reverse,bubbleSort,2300,17928921
+100-4000 step=100 reverse,bubbleSort,2400,19688320
+100-4000 step=100 reverse,bubbleSort,2500,21188888
+100-4000 step=100 reverse,bubbleSort,2600,22977918
+100-4000 step=100 reverse,bubbleSort,2700,25012470
+100-4000 step=100 reverse,bubbleSort,2800,26628558
+100-4000 step=100 reverse,bubbleSort,2900,28518427
+100-4000 step=100 reverse,bubbleSort,3000,30585563
+100-4000 step=100 reverse,bubbleSort,3100,32788936
+100-4000 step=100 reverse,bubbleSort,3200,35625543
+100-4000 step=100 reverse,bubbleSort,3300,37233896
+100-4000 step=100 reverse,bubbleSort,3400,39300328
+100-4000 step=100 reverse,bubbleSort,3500,41862178
+100-4000 step=100 reverse,bubbleSort,3600,44082483
+100-4000 step=100 reverse,bubbleSort,3700,46704391
+100-4000 step=100 reverse,bubbleSort,3800,49215142
+100-4000 step=100 reverse,bubbleSort,3900,52232138
+100-4000 step=100 reverse,bubbleSort,4000,54910381
+100-4000 step=100 reverse,bubbleSort,4100,57428550
+50-300 step=50 x = 0...5,bubbleSortIverson1,50,4714
+50-300 step=50 x = 0...5,bubbleSortIverson1,100,21368
+50-300 step=50 x = 0...5,bubbleSortIverson1,150,49912
+50-300 step=50 x = 0...5,bubbleSortIverson1,200,91567
+50-300 step=50 x = 0...5,bubbleSortIverson1,250,141292
+50-300 step=50 x = 0...5,bubbleSortIverson1,300,206427
+50-300 step=50 x = 0...4000,bubbleSortIverson1,50,6041
+50-300 step=50 x = 0...4000,bubbleSortIverson1,100,24712
+50-300 step=50 x = 0...4000,bubbleSortIverson1,150,55092
+50-300 step=50 x = 0...4000,bubbleSortIverson1,200,103570
+50-300 step=50 x = 0...4000,bubbleSortIverson1,250,157950
+50-300 step=50 x = 0...4000,bubbleSortIverson1,300,230200
+50-300 step=50 almost (+- 90% sort),bubbleSortIverson1,50,630
+50-300 step=50 almost (+- 90% sort),bubbleSortIverson1,100,1353
+50-300 step=50 almost (+- 90% sort),bubbleSortIverson1,150,2427
+50-300 step=50 almost (+- 90% sort),bubbleSortIverson1,200,4353
+50-300 step=50 almost (+- 90% sort),bubbleSortIverson1,250,11466
+50-300 step=50 almost (+- 90% sort),bubbleSortIverson1,300,15861
+50-300 step=50 reverse,bubbleSortIverson1,50,8362
+50-300 step=50 reverse,bubbleSortIverson1,100,32596
+50-300 step=50 reverse,bubbleSortIverson1,150,77538
+50-300 step=50 reverse,bubbleSortIverson1,200,130535
+50-300 step=50 reverse,bubbleSortIverson1,250,206470
+50-300 step=50 reverse,bubbleSortIverson1,300,294444
+100-4000 step=100 x = 0...5,bubbleSortIverson1,100,23295
+100-4000 step=100 x = 0...5,bubbleSortIverson1,200,92236
+100-4000 step=100 x = 0...5,bubbleSortIverson1,300,198719
+100-4000 step=100 x = 0...5,bubbleSortIverson1,400,345848
+100-4000 step=100 x = 0...5,bubbleSortIverson1,500,512547
+100-4000 step=100 x = 0...5,bubbleSortIverson1,600,773497
+100-4000 step=100 x = 0...5,bubbleSortIverson1,700,1163490
+100-4000 step=100 x = 0...5,bubbleSortIverson1,800,1347548
+100-4000 step=100 x = 0...5,bubbleSortIverson1,900,1733152
+100-4000 step=100 x = 0...5,bubbleSortIverson1,1000,2284001
+100-4000 step=100 x = 0...5,bubbleSortIverson1,1100,2828271
+100-4000 step=100 x = 0...5,bubbleSortIverson1,1200,3243005
+100-4000 step=100 x = 0...5,bubbleSortIverson1,1300,4016746
+100-4000 step=100 x = 0...5,bubbleSortIverson1,1400,4638675
+100-4000 step=100 x = 0...5,bubbleSortIverson1,1500,5424008
+100-4000 step=100 x = 0...5,bubbleSortIverson1,1600,6247177
+100-4000 step=100 x = 0...5,bubbleSortIverson1,1700,6941107
+100-4000 step=100 x = 0...5,bubbleSortIverson1,1800,8147915
+100-4000 step=100 x = 0...5,bubbleSortIverson1,1900,9388593
+100-4000 step=100 x = 0...5,bubbleSortIverson1,2000,10391342
+100-4000 step=100 x = 0...5,bubbleSortIverson1,2100,11133658
+100-4000 step=100 x = 0...5,bubbleSortIverson1,2200,12201502
+100-4000 step=100 x = 0...5,bubbleSortIverson1,2300,13311353
+100-4000 step=100 x = 0...5,bubbleSortIverson1,2400,14823969
+100-4000 step=100 x = 0...5,bubbleSortIverson1,2500,15973123
+100-4000 step=100 x = 0...5,bubbleSortIverson1,2600,17291859
+100-4000 step=100 x = 0...5,bubbleSortIverson1,2700,19704988
+100-4000 step=100 x = 0...5,bubbleSortIverson1,2800,21288932
+100-4000 step=100 x = 0...5,bubbleSortIverson1,2900,23546005
+100-4000 step=100 x = 0...5,bubbleSortIverson1,3000,24904255
+100-4000 step=100 x = 0...5,bubbleSortIverson1,3100,26642061
+100-4000 step=100 x = 0...5,bubbleSortIverson1,3200,28486596
+100-4000 step=100 x = 0...5,bubbleSortIverson1,3300,30390498
+100-4000 step=100 x = 0...5,bubbleSortIverson1,3400,32261441
+100-4000 step=100 x = 0...5,bubbleSortIverson1,3500,34410585
+100-4000 step=100 x = 0...5,bubbleSortIverson1,3600,36030048
+100-4000 step=100 x = 0...5,bubbleSortIverson1,3700,38279796
+100-4000 step=100 x = 0...5,bubbleSortIverson1,3800,41641370
+100-4000 step=100 x = 0...5,bubbleSortIverson1,3900,43436644
+100-4000 step=100 x = 0...5,bubbleSortIverson1,4000,45129094
+100-4000 step=100 x = 0...5,bubbleSortIverson1,4100,47331510
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,100,23771
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,200,98979
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,300,225041
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,400,390596
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,500,589097
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,600,831407
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,700,1210128
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,800,1607406
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,900,2070763
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,1000,2540984
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,1100,3074929
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,1200,3747734
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,1300,4201648
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,1400,5108642
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,1500,5965031
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,1600,6769335
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,1700,7599946
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,1800,9370148
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,1900,9779340
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,2000,10855906
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,2100,11854096
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,2200,13463358
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,2300,14445208
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,2400,15722398
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,2500,16983951
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,2600,18964958
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,2700,20499983
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,2800,22643945
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,2900,24686951
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,3000,26969218
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,3100,28279792
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,3200,30214745
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,3300,32340133
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,3400,34693633
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,3500,37549904
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,3600,39219455
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,3700,41503092
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,3800,44111324
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,3900,47396380
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,4000,49189001
+100-4000 step=100 x = 0...4000,bubbleSortIverson1,4100,52022890
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,100,1351
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,200,4340
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,300,14743
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,400,20245
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,500,214031
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,600,289405
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,700,390056
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,800,466992
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,900,743446
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,1000,861581
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,1100,1008226
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,1200,1248576
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,1300,1471511
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,1400,1566550
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,1500,1706717
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,1600,1981866
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,1700,2629673
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,1800,3023657
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,1900,3182259
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,2000,3310678
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,2100,3586083
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,2200,3984260
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,2300,4000317
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,2400,4474222
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,2500,4975718
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,2600,5245280
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,2700,5483709
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,2800,6046628
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,2900,7644823
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,3000,8315916
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,3100,8802774
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,3200,9567490
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,3300,10120587
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,3400,10833675
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,3500,11398774
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,3600,12020998
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,3700,12553658
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,3800,13109668
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,3900,13770341
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,4000,14783133
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson1,4100,15396114
+100-4000 step=100 reverse,bubbleSortIverson1,100,32565
+100-4000 step=100 reverse,bubbleSortIverson1,200,131360
+100-4000 step=100 reverse,bubbleSortIverson1,300,291660
+100-4000 step=100 reverse,bubbleSortIverson1,400,502785
+100-4000 step=100 reverse,bubbleSortIverson1,500,846518
+100-4000 step=100 reverse,bubbleSortIverson1,600,1099739
+100-4000 step=100 reverse,bubbleSortIverson1,700,1542252
+100-4000 step=100 reverse,bubbleSortIverson1,800,2131101
+100-4000 step=100 reverse,bubbleSortIverson1,900,2581929
+100-4000 step=100 reverse,bubbleSortIverson1,1000,3036720
+100-4000 step=100 reverse,bubbleSortIverson1,1100,3781631
+100-4000 step=100 reverse,bubbleSortIverson1,1200,4405783
+100-4000 step=100 reverse,bubbleSortIverson1,1300,5323288
+100-4000 step=100 reverse,bubbleSortIverson1,1400,6215510
+100-4000 step=100 reverse,bubbleSortIverson1,1500,7181210
+100-4000 step=100 reverse,bubbleSortIverson1,1600,8135445
+100-4000 step=100 reverse,bubbleSortIverson1,1700,9148585
+100-4000 step=100 reverse,bubbleSortIverson1,1800,10346305
+100-4000 step=100 reverse,bubbleSortIverson1,1900,11957356
+100-4000 step=100 reverse,bubbleSortIverson1,2000,13042991
+100-4000 step=100 reverse,bubbleSortIverson1,2100,14549659
+100-4000 step=100 reverse,bubbleSortIverson1,2200,15543515
+100-4000 step=100 reverse,bubbleSortIverson1,2300,16806616
+100-4000 step=100 reverse,bubbleSortIverson1,2400,18419462
+100-4000 step=100 reverse,bubbleSortIverson1,2500,19773306
+100-4000 step=100 reverse,bubbleSortIverson1,2600,21411964
+100-4000 step=100 reverse,bubbleSortIverson1,2700,23338046
+100-4000 step=100 reverse,bubbleSortIverson1,2800,26074214
+100-4000 step=100 reverse,bubbleSortIverson1,2900,27687981
+100-4000 step=100 reverse,bubbleSortIverson1,3000,29762848
+100-4000 step=100 reverse,bubbleSortIverson1,3100,31658745
+100-4000 step=100 reverse,bubbleSortIverson1,3200,33957393
+100-4000 step=100 reverse,bubbleSortIverson1,3300,35914901
+100-4000 step=100 reverse,bubbleSortIverson1,3400,38238484
+100-4000 step=100 reverse,bubbleSortIverson1,3500,40354231
+100-4000 step=100 reverse,bubbleSortIverson1,3600,42752146
+100-4000 step=100 reverse,bubbleSortIverson1,3700,45472977
+100-4000 step=100 reverse,bubbleSortIverson1,3800,47908939
+100-4000 step=100 reverse,bubbleSortIverson1,3900,50146610
+100-4000 step=100 reverse,bubbleSortIverson1,4000,53221596
+100-4000 step=100 reverse,bubbleSortIverson1,4100,55527643
+50-300 step=50 x = 0...5,bubbleSortIverson12,50,4648
+50-300 step=50 x = 0...5,bubbleSortIverson12,100,20289
+50-300 step=50 x = 0...5,bubbleSortIverson12,150,49198
+50-300 step=50 x = 0...5,bubbleSortIverson12,200,88588
+50-300 step=50 x = 0...5,bubbleSortIverson12,250,141412
+50-300 step=50 x = 0...5,bubbleSortIverson12,300,205002
+50-300 step=50 x = 0...4000,bubbleSortIverson12,50,5715
+50-300 step=50 x = 0...4000,bubbleSortIverson12,100,23731
+50-300 step=50 x = 0...4000,bubbleSortIverson12,150,53524
+50-300 step=50 x = 0...4000,bubbleSortIverson12,200,96899
+50-300 step=50 x = 0...4000,bubbleSortIverson12,250,159928
+50-300 step=50 x = 0...4000,bubbleSortIverson12,300,231139
+50-300 step=50 almost (+- 90% sort),bubbleSortIverson12,50,623
+50-300 step=50 almost (+- 90% sort),bubbleSortIverson12,100,1321
+50-300 step=50 almost (+- 90% sort),bubbleSortIverson12,150,2385
+50-300 step=50 almost (+- 90% sort),bubbleSortIverson12,200,4292
+50-300 step=50 almost (+- 90% sort),bubbleSortIverson12,250,10976
+50-300 step=50 almost (+- 90% sort),bubbleSortIverson12,300,13660
+50-300 step=50 reverse,bubbleSortIverson12,50,8028
+50-300 step=50 reverse,bubbleSortIverson12,100,31484
+50-300 step=50 reverse,bubbleSortIverson12,150,70230
+50-300 step=50 reverse,bubbleSortIverson12,200,124437
+50-300 step=50 reverse,bubbleSortIverson12,250,198648
+50-300 step=50 reverse,bubbleSortIverson12,300,286820
+100-4000 step=100 x = 0...5,bubbleSortIverson12,100,19586
+100-4000 step=100 x = 0...5,bubbleSortIverson12,200,85154
+100-4000 step=100 x = 0...5,bubbleSortIverson12,300,191013
+100-4000 step=100 x = 0...5,bubbleSortIverson12,400,357247
+100-4000 step=100 x = 0...5,bubbleSortIverson12,500,573328
+100-4000 step=100 x = 0...5,bubbleSortIverson12,600,867861
+100-4000 step=100 x = 0...5,bubbleSortIverson12,700,1092923
+100-4000 step=100 x = 0...5,bubbleSortIverson12,800,1471262
+100-4000 step=100 x = 0...5,bubbleSortIverson12,900,1898681
+100-4000 step=100 x = 0...5,bubbleSortIverson12,1000,2306810
+100-4000 step=100 x = 0...5,bubbleSortIverson12,1100,2897571
+100-4000 step=100 x = 0...5,bubbleSortIverson12,1200,3670722
+100-4000 step=100 x = 0...5,bubbleSortIverson12,1300,4273063
+100-4000 step=100 x = 0...5,bubbleSortIverson12,1400,4915765
+100-4000 step=100 x = 0...5,bubbleSortIverson12,1500,5723101
+100-4000 step=100 x = 0...5,bubbleSortIverson12,1600,6336854
+100-4000 step=100 x = 0...5,bubbleSortIverson12,1700,7675650
+100-4000 step=100 x = 0...5,bubbleSortIverson12,1800,8437139
+100-4000 step=100 x = 0...5,bubbleSortIverson12,1900,9642253
+100-4000 step=100 x = 0...5,bubbleSortIverson12,2000,10338206
+100-4000 step=100 x = 0...5,bubbleSortIverson12,2100,11616590
+100-4000 step=100 x = 0...5,bubbleSortIverson12,2200,12934716
+100-4000 step=100 x = 0...5,bubbleSortIverson12,2300,13842402
+100-4000 step=100 x = 0...5,bubbleSortIverson12,2400,15097006
+100-4000 step=100 x = 0...5,bubbleSortIverson12,2500,16454832
+100-4000 step=100 x = 0...5,bubbleSortIverson12,2600,17714668
+100-4000 step=100 x = 0...5,bubbleSortIverson12,2700,19318908
+100-4000 step=100 x = 0...5,bubbleSortIverson12,2800,20791130
+100-4000 step=100 x = 0...5,bubbleSortIverson12,2900,23421730
+100-4000 step=100 x = 0...5,bubbleSortIverson12,3000,25094522
+100-4000 step=100 x = 0...5,bubbleSortIverson12,3100,25672181
+100-4000 step=100 x = 0...5,bubbleSortIverson12,3200,27792007
+100-4000 step=100 x = 0...5,bubbleSortIverson12,3300,29408066
+100-4000 step=100 x = 0...5,bubbleSortIverson12,3400,31606463
+100-4000 step=100 x = 0...5,bubbleSortIverson12,3500,33599732
+100-4000 step=100 x = 0...5,bubbleSortIverson12,3600,35115775
+100-4000 step=100 x = 0...5,bubbleSortIverson12,3700,37852674
+100-4000 step=100 x = 0...5,bubbleSortIverson12,3800,39316699
+100-4000 step=100 x = 0...5,bubbleSortIverson12,3900,41498984
+100-4000 step=100 x = 0...5,bubbleSortIverson12,4000,44796398
+100-4000 step=100 x = 0...5,bubbleSortIverson12,4100,46125386
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,100,22011
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,200,92889
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,300,211723
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,400,367140
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,500,614776
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,600,909074
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,700,1181822
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,800,1670050
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,900,2023146
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,1000,2486552
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,1100,3012784
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,1200,3881110
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,1300,4781127
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,1400,5208054
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,1500,5906975
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,1600,6893376
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,1700,7851614
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,1800,9298862
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,1900,10087412
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,2000,10988303
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,2100,12257306
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,2200,13493276
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,2300,15412300
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,2400,16004188
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,2500,17757952
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,2600,18947675
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,2700,21278695
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,2800,22368684
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,2900,23941810
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,3000,26043973
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,3100,27407679
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,3200,29340146
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,3300,31540910
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,3400,33519686
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,3500,36018526
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,3600,37968027
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,3700,40249547
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,3800,43146867
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,3900,45335881
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,4000,47631068
+100-4000 step=100 x = 0...4000,bubbleSortIverson12,4100,50516336
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,100,1236
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,200,4101
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,300,12715
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,400,18072
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,500,183837
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,600,257038
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,700,245163
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,800,267571
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,900,685214
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,1000,697390
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,1100,841088
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,1200,1226965
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,1300,1318914
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,1400,1254425
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,1500,1585081
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,1600,1546341
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,1700,2654788
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,1800,2543856
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,1900,3031363
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,2000,3492568
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,2100,3627366
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,2200,3770694
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,2300,3891427
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,2400,4694461
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,2500,4578553
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,2600,4891438
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,2700,5248314
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,2800,6380507
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,2900,7471259
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,3000,8131577
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,3100,8643815
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,3200,9852549
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,3300,9865730
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,3400,11102269
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,3500,11614106
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,3600,11828406
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,3700,11719149
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,3800,11774600
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,3900,13324679
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,4000,14762732
+100-4000 step=100 almost (+- 90% sort),bubbleSortIverson12,4100,15547174
+100-4000 step=100 reverse,bubbleSortIverson12,100,29374
+100-4000 step=100 reverse,bubbleSortIverson12,200,118308
+100-4000 step=100 reverse,bubbleSortIverson12,300,266274
+100-4000 step=100 reverse,bubbleSortIverson12,400,474798
+100-4000 step=100 reverse,bubbleSortIverson12,500,775143
+100-4000 step=100 reverse,bubbleSortIverson12,600,1152538
+100-4000 step=100 reverse,bubbleSortIverson12,700,1478085
+100-4000 step=100 reverse,bubbleSortIverson12,800,1974831
+100-4000 step=100 reverse,bubbleSortIverson12,900,2435764
+100-4000 step=100 reverse,bubbleSortIverson12,1000,3243817
+100-4000 step=100 reverse,bubbleSortIverson12,1100,3830096
+100-4000 step=100 reverse,bubbleSortIverson12,1200,4593820
+100-4000 step=100 reverse,bubbleSortIverson12,1300,5142974
+100-4000 step=100 reverse,bubbleSortIverson12,1400,6145289
+100-4000 step=100 reverse,bubbleSortIverson12,1500,6949385
+100-4000 step=100 reverse,bubbleSortIverson12,1600,8024454
+100-4000 step=100 reverse,bubbleSortIverson12,1700,8904804
+100-4000 step=100 reverse,bubbleSortIverson12,1800,10151323
+100-4000 step=100 reverse,bubbleSortIverson12,1900,11183511
+100-4000 step=100 reverse,bubbleSortIverson12,2000,12420127
+100-4000 step=100 reverse,bubbleSortIverson12,2100,13839967
+100-4000 step=100 reverse,bubbleSortIverson12,2200,15232454
+100-4000 step=100 reverse,bubbleSortIverson12,2300,16362069
+100-4000 step=100 reverse,bubbleSortIverson12,2400,17718052
+100-4000 step=100 reverse,bubbleSortIverson12,2500,19184494
+100-4000 step=100 reverse,bubbleSortIverson12,2600,20776925
+100-4000 step=100 reverse,bubbleSortIverson12,2700,22826408
+100-4000 step=100 reverse,bubbleSortIverson12,2800,23866620
+100-4000 step=100 reverse,bubbleSortIverson12,2900,25870301
+100-4000 step=100 reverse,bubbleSortIverson12,3000,28643686
+100-4000 step=100 reverse,bubbleSortIverson12,3100,30129326
+100-4000 step=100 reverse,bubbleSortIverson12,3200,31522013
+100-4000 step=100 reverse,bubbleSortIverson12,3300,33635188
+100-4000 step=100 reverse,bubbleSortIverson12,3400,35650561
+100-4000 step=100 reverse,bubbleSortIverson12,3500,37990906
+100-4000 step=100 reverse,bubbleSortIverson12,3600,40679364
+100-4000 step=100 reverse,bubbleSortIverson12,3700,42655632
+100-4000 step=100 reverse,bubbleSortIverson12,3800,44729922
+100-4000 step=100 reverse,bubbleSortIverson12,3900,46800347
+100-4000 step=100 reverse,bubbleSortIverson12,4000,50889794
+100-4000 step=100 reverse,bubbleSortIverson12,4100,52418926
+50-300 step=50 x = 0...5,insertionSort,50,1268
+50-300 step=50 x = 0...5,insertionSort,100,4697
+50-300 step=50 x = 0...5,insertionSort,150,10273
+50-300 step=50 x = 0...5,insertionSort,200,17834
+50-300 step=50 x = 0...5,insertionSort,250,27085
+50-300 step=50 x = 0...5,insertionSort,300,41057
+50-300 step=50 x = 0...4000,insertionSort,50,1636
+50-300 step=50 x = 0...4000,insertionSort,100,5299
+50-300 step=50 x = 0...4000,insertionSort,150,11453
+50-300 step=50 x = 0...4000,insertionSort,200,19508
+50-300 step=50 x = 0...4000,insertionSort,250,32016
+50-300 step=50 x = 0...4000,insertionSort,300,43405
+50-300 step=50 almost (+- 90% sort),insertionSort,50,311
+50-300 step=50 almost (+- 90% sort),insertionSort,100,619
+50-300 step=50 almost (+- 90% sort),insertionSort,150,969
+50-300 step=50 almost (+- 90% sort),insertionSort,200,1496
+50-300 step=50 almost (+- 90% sort),insertionSort,250,2330
+50-300 step=50 almost (+- 90% sort),insertionSort,300,3469
+50-300 step=50 reverse,insertionSort,50,2604
+50-300 step=50 reverse,insertionSort,100,9655
+50-300 step=50 reverse,insertionSort,150,21127
+50-300 step=50 reverse,insertionSort,200,36940
+50-300 step=50 reverse,insertionSort,250,58134
+50-300 step=50 reverse,insertionSort,300,82298
+100-4000 step=100 x = 0...5,insertionSort,100,5063
+100-4000 step=100 x = 0...5,insertionSort,200,19090
+100-4000 step=100 x = 0...5,insertionSort,300,40237
+100-4000 step=100 x = 0...5,insertionSort,400,72160
+100-4000 step=100 x = 0...5,insertionSort,500,102212
+100-4000 step=100 x = 0...5,insertionSort,600,153137
+100-4000 step=100 x = 0...5,insertionSort,700,208542
+100-4000 step=100 x = 0...5,insertionSort,800,301227
+100-4000 step=100 x = 0...5,insertionSort,900,314744
+100-4000 step=100 x = 0...5,insertionSort,1000,396627
+100-4000 step=100 x = 0...5,insertionSort,1100,510240
+100-4000 step=100 x = 0...5,insertionSort,1200,629966
+100-4000 step=100 x = 0...5,insertionSort,1300,668677
+100-4000 step=100 x = 0...5,insertionSort,1400,812688
+100-4000 step=100 x = 0...5,insertionSort,1500,974793
+100-4000 step=100 x = 0...5,insertionSort,1600,1025480
+100-4000 step=100 x = 0...5,insertionSort,1700,1259672
+100-4000 step=100 x = 0...5,insertionSort,1800,1329164
+100-4000 step=100 x = 0...5,insertionSort,1900,1457356
+100-4000 step=100 x = 0...5,insertionSort,2000,1667799
+100-4000 step=100 x = 0...5,insertionSort,2100,1853234
+100-4000 step=100 x = 0...5,insertionSort,2200,1997894
+100-4000 step=100 x = 0...5,insertionSort,2300,2296810
+100-4000 step=100 x = 0...5,insertionSort,2400,2811416
+100-4000 step=100 x = 0...5,insertionSort,2500,2619406
+100-4000 step=100 x = 0...5,insertionSort,2600,2715228
+100-4000 step=100 x = 0...5,insertionSort,2700,3156160
+100-4000 step=100 x = 0...5,insertionSort,2800,3145085
+100-4000 step=100 x = 0...5,insertionSort,2900,3529478
+100-4000 step=100 x = 0...5,insertionSort,3000,3707675
+100-4000 step=100 x = 0...5,insertionSort,3100,3879522
+100-4000 step=100 x = 0...5,insertionSort,3200,4124940
+100-4000 step=100 x = 0...5,insertionSort,3300,4517338
+100-4000 step=100 x = 0...5,insertionSort,3400,4599289
+100-4000 step=100 x = 0...5,insertionSort,3500,4943841
+100-4000 step=100 x = 0...5,insertionSort,3600,5339602
+100-4000 step=100 x = 0...5,insertionSort,3700,5410190
+100-4000 step=100 x = 0...5,insertionSort,3800,5728165
+100-4000 step=100 x = 0...5,insertionSort,3900,6197903
+100-4000 step=100 x = 0...5,insertionSort,4000,6587104
+100-4000 step=100 x = 0...5,insertionSort,4100,6787773
+100-4000 step=100 x = 0...4000,insertionSort,100,5683
+100-4000 step=100 x = 0...4000,insertionSort,200,20897
+100-4000 step=100 x = 0...4000,insertionSort,300,47936
+100-4000 step=100 x = 0...4000,insertionSort,400,81235
+100-4000 step=100 x = 0...4000,insertionSort,500,125286
+100-4000 step=100 x = 0...4000,insertionSort,600,186629
+100-4000 step=100 x = 0...4000,insertionSort,700,246810
+100-4000 step=100 x = 0...4000,insertionSort,800,314991
+100-4000 step=100 x = 0...4000,insertionSort,900,369123
+100-4000 step=100 x = 0...4000,insertionSort,1000,450880
+100-4000 step=100 x = 0...4000,insertionSort,1100,559264
+100-4000 step=100 x = 0...4000,insertionSort,1200,711679
+100-4000 step=100 x = 0...4000,insertionSort,1300,832048
+100-4000 step=100 x = 0...4000,insertionSort,1400,910033
+100-4000 step=100 x = 0...4000,insertionSort,1500,1110860
+100-4000 step=100 x = 0...4000,insertionSort,1600,1141016
+100-4000 step=100 x = 0...4000,insertionSort,1700,1421838
+100-4000 step=100 x = 0...4000,insertionSort,1800,1507236
+100-4000 step=100 x = 0...4000,insertionSort,1900,1813308
+100-4000 step=100 x = 0...4000,insertionSort,2000,2002027
+100-4000 step=100 x = 0...4000,insertionSort,2100,2121646
+100-4000 step=100 x = 0...4000,insertionSort,2200,2284126
+100-4000 step=100 x = 0...4000,insertionSort,2300,2624406
+100-4000 step=100 x = 0...4000,insertionSort,2400,2931879
+100-4000 step=100 x = 0...4000,insertionSort,2500,3149080
+100-4000 step=100 x = 0...4000,insertionSort,2600,3322160
+100-4000 step=100 x = 0...4000,insertionSort,2700,3545873
+100-4000 step=100 x = 0...4000,insertionSort,2800,3931665
+100-4000 step=100 x = 0...4000,insertionSort,2900,3946862
+100-4000 step=100 x = 0...4000,insertionSort,3000,4230686
+100-4000 step=100 x = 0...4000,insertionSort,3100,4707961
+100-4000 step=100 x = 0...4000,insertionSort,3200,4935698
+100-4000 step=100 x = 0...4000,insertionSort,3300,5304683
+100-4000 step=100 x = 0...4000,insertionSort,3400,5696053
+100-4000 step=100 x = 0...4000,insertionSort,3500,5988124
+100-4000 step=100 x = 0...4000,insertionSort,3600,6080940
+100-4000 step=100 x = 0...4000,insertionSort,3700,6616897
+100-4000 step=100 x = 0...4000,insertionSort,3800,6806388
+100-4000 step=100 x = 0...4000,insertionSort,3900,7240971
+100-4000 step=100 x = 0...4000,insertionSort,4000,7681090
+100-4000 step=100 x = 0...4000,insertionSort,4100,8184892
+100-4000 step=100 almost (+- 90% sort),insertionSort,100,665
+100-4000 step=100 almost (+- 90% sort),insertionSort,200,1605
+100-4000 step=100 almost (+- 90% sort),insertionSort,300,3460
+100-4000 step=100 almost (+- 90% sort),insertionSort,400,5672
+100-4000 step=100 almost (+- 90% sort),insertionSort,500,9086
+100-4000 step=100 almost (+- 90% sort),insertionSort,600,12131
+100-4000 step=100 almost (+- 90% sort),insertionSort,700,14851
+100-4000 step=100 almost (+- 90% sort),insertionSort,800,16198
+100-4000 step=100 almost (+- 90% sort),insertionSort,900,21215
+100-4000 step=100 almost (+- 90% sort),insertionSort,1000,25284
+100-4000 step=100 almost (+- 90% sort),insertionSort,1100,30610
+100-4000 step=100 almost (+- 90% sort),insertionSort,1200,42672
+100-4000 step=100 almost (+- 90% sort),insertionSort,1300,67794
+100-4000 step=100 almost (+- 90% sort),insertionSort,1400,49581
+100-4000 step=100 almost (+- 90% sort),insertionSort,1500,57922
+100-4000 step=100 almost (+- 90% sort),insertionSort,1600,61371
+100-4000 step=100 almost (+- 90% sort),insertionSort,1700,70851
+100-4000 step=100 almost (+- 90% sort),insertionSort,1800,70377
+100-4000 step=100 almost (+- 90% sort),insertionSort,1900,84965
+100-4000 step=100 almost (+- 90% sort),insertionSort,2000,90681
+100-4000 step=100 almost (+- 90% sort),insertionSort,2100,94269
+100-4000 step=100 almost (+- 90% sort),insertionSort,2200,100005
+100-4000 step=100 almost (+- 90% sort),insertionSort,2300,115702
+100-4000 step=100 almost (+- 90% sort),insertionSort,2400,122007
+100-4000 step=100 almost (+- 90% sort),insertionSort,2500,142100
+100-4000 step=100 almost (+- 90% sort),insertionSort,2600,128060
+100-4000 step=100 almost (+- 90% sort),insertionSort,2700,131854
+100-4000 step=100 almost (+- 90% sort),insertionSort,2800,146127
+100-4000 step=100 almost (+- 90% sort),insertionSort,2900,153203
+100-4000 step=100 almost (+- 90% sort),insertionSort,3000,172698
+100-4000 step=100 almost (+- 90% sort),insertionSort,3100,177012
+100-4000 step=100 almost (+- 90% sort),insertionSort,3200,181769
+100-4000 step=100 almost (+- 90% sort),insertionSort,3300,185754
+100-4000 step=100 almost (+- 90% sort),insertionSort,3400,208009
+100-4000 step=100 almost (+- 90% sort),insertionSort,3500,216249
+100-4000 step=100 almost (+- 90% sort),insertionSort,3600,220415
+100-4000 step=100 almost (+- 90% sort),insertionSort,3700,227283
+100-4000 step=100 almost (+- 90% sort),insertionSort,3800,214518
+100-4000 step=100 almost (+- 90% sort),insertionSort,3900,244131
+100-4000 step=100 almost (+- 90% sort),insertionSort,4000,261653
+100-4000 step=100 almost (+- 90% sort),insertionSort,4100,266878
+100-4000 step=100 reverse,insertionSort,100,10367
+100-4000 step=100 reverse,insertionSort,200,39719
+100-4000 step=100 reverse,insertionSort,300,87936
+100-4000 step=100 reverse,insertionSort,400,155411
+100-4000 step=100 reverse,insertionSort,500,244431
+100-4000 step=100 reverse,insertionSort,600,360701
+100-4000 step=100 reverse,insertionSort,700,493119
+100-4000 step=100 reverse,insertionSort,800,623415
+100-4000 step=100 reverse,insertionSort,900,794004
+100-4000 step=100 reverse,insertionSort,1000,907478
+100-4000 step=100 reverse,insertionSort,1100,1114852
+100-4000 step=100 reverse,insertionSort,1200,1389965
+100-4000 step=100 reverse,insertionSort,1300,1656784
+100-4000 step=100 reverse,insertionSort,1400,1768670
+100-4000 step=100 reverse,insertionSort,1500,2156942
+100-4000 step=100 reverse,insertionSort,1600,2442518
+100-4000 step=100 reverse,insertionSort,1700,2726855
+100-4000 step=100 reverse,insertionSort,1800,3085652
+100-4000 step=100 reverse,insertionSort,1900,3519635
+100-4000 step=100 reverse,insertionSort,2000,3743138
+100-4000 step=100 reverse,insertionSort,2100,4178094
+100-4000 step=100 reverse,insertionSort,2200,4654586
+100-4000 step=100 reverse,insertionSort,2300,5370528
+100-4000 step=100 reverse,insertionSort,2400,5775367
+100-4000 step=100 reverse,insertionSort,2500,7365642
+100-4000 step=100 reverse,insertionSort,2600,6496231
+100-4000 step=100 reverse,insertionSort,2700,7103338
+100-4000 step=100 reverse,insertionSort,2800,7865761
+100-4000 step=100 reverse,insertionSort,2900,8150952
+100-4000 step=100 reverse,insertionSort,3000,8903923
+100-4000 step=100 reverse,insertionSort,3100,9352117
+100-4000 step=100 reverse,insertionSort,3200,9739215
+100-4000 step=100 reverse,insertionSort,3300,10356484
+100-4000 step=100 reverse,insertionSort,3400,10926185
+100-4000 step=100 reverse,insertionSort,3500,11554205
+100-4000 step=100 reverse,insertionSort,3600,12882403
+100-4000 step=100 reverse,insertionSort,3700,13022366
+100-4000 step=100 reverse,insertionSort,3800,13840221
+100-4000 step=100 reverse,insertionSort,3900,14410007
+100-4000 step=100 reverse,insertionSort,4000,15323125
+100-4000 step=100 reverse,insertionSort,4100,15968734
+50-300 step=50 x = 0...5,insertionSortBin,50,3951
+50-300 step=50 x = 0...5,insertionSortBin,100,17022
+50-300 step=50 x = 0...5,insertionSortBin,150,39440
+50-300 step=50 x = 0...5,insertionSortBin,200,70339
+50-300 step=50 x = 0...5,insertionSortBin,250,108793
+50-300 step=50 x = 0...5,insertionSortBin,300,156908
+50-300 step=50 x = 0...4000,insertionSortBin,50,5496
+50-300 step=50 x = 0...4000,insertionSortBin,100,19529
+50-300 step=50 x = 0...4000,insertionSortBin,150,44425
+50-300 step=50 x = 0...4000,insertionSortBin,200,77548
+50-300 step=50 x = 0...4000,insertionSortBin,250,122710
+50-300 step=50 x = 0...4000,insertionSortBin,300,181487
+50-300 step=50 almost (+- 90% sort),insertionSortBin,50,667
+50-300 step=50 almost (+- 90% sort),insertionSortBin,100,1523
+50-300 step=50 almost (+- 90% sort),insertionSortBin,150,2549
+50-300 step=50 almost (+- 90% sort),insertionSortBin,200,4156
+50-300 step=50 almost (+- 90% sort),insertionSortBin,250,6350
+50-300 step=50 almost (+- 90% sort),insertionSortBin,300,9395
+50-300 step=50 reverse,insertionSortBin,50,10002
+50-300 step=50 reverse,insertionSortBin,100,38806
+50-300 step=50 reverse,insertionSortBin,150,86393
+50-300 step=50 reverse,insertionSortBin,200,152549
+50-300 step=50 reverse,insertionSortBin,250,240065
+50-300 step=50 reverse,insertionSortBin,300,349162
+100-4000 step=100 x = 0...5,insertionSortBin,100,17430
+100-4000 step=100 x = 0...5,insertionSortBin,200,72086
+100-4000 step=100 x = 0...5,insertionSortBin,300,156907
+100-4000 step=100 x = 0...5,insertionSortBin,400,272642
+100-4000 step=100 x = 0...5,insertionSortBin,500,396333
+100-4000 step=100 x = 0...5,insertionSortBin,600,596411
+100-4000 step=100 x = 0...5,insertionSortBin,700,808754
+100-4000 step=100 x = 0...5,insertionSortBin,800,1000739
+100-4000 step=100 x = 0...5,insertionSortBin,900,1350933
+100-4000 step=100 x = 0...5,insertionSortBin,1000,1705827
+100-4000 step=100 x = 0...5,insertionSortBin,1100,2048677
+100-4000 step=100 x = 0...5,insertionSortBin,1200,2488028
+100-4000 step=100 x = 0...5,insertionSortBin,1300,2899938
+100-4000 step=100 x = 0...5,insertionSortBin,1400,3441605
+100-4000 step=100 x = 0...5,insertionSortBin,1500,3935065
+100-4000 step=100 x = 0...5,insertionSortBin,1600,4402407
+100-4000 step=100 x = 0...5,insertionSortBin,1700,4962688
+100-4000 step=100 x = 0...5,insertionSortBin,1800,5609280
+100-4000 step=100 x = 0...5,insertionSortBin,1900,6205620
+100-4000 step=100 x = 0...5,insertionSortBin,2000,6699570
+100-4000 step=100 x = 0...5,insertionSortBin,2100,7400835
+100-4000 step=100 x = 0...5,insertionSortBin,2200,8301372
+100-4000 step=100 x = 0...5,insertionSortBin,2300,8910755
+100-4000 step=100 x = 0...5,insertionSortBin,2400,9741014
+100-4000 step=100 x = 0...5,insertionSortBin,2500,10832198
+100-4000 step=100 x = 0...5,insertionSortBin,2600,11370221
+100-4000 step=100 x = 0...5,insertionSortBin,2700,12564349
+100-4000 step=100 x = 0...5,insertionSortBin,2800,13193581
+100-4000 step=100 x = 0...5,insertionSortBin,2900,14040914
+100-4000 step=100 x = 0...5,insertionSortBin,3000,15687220
+100-4000 step=100 x = 0...5,insertionSortBin,3100,16138958
+100-4000 step=100 x = 0...5,insertionSortBin,3200,17329490
+100-4000 step=100 x = 0...5,insertionSortBin,3300,18316262
+100-4000 step=100 x = 0...5,insertionSortBin,3400,19576838
+100-4000 step=100 x = 0...5,insertionSortBin,3500,20744205
+100-4000 step=100 x = 0...5,insertionSortBin,3600,21417477
+100-4000 step=100 x = 0...5,insertionSortBin,3700,22738948
+100-4000 step=100 x = 0...5,insertionSortBin,3800,23545297
+100-4000 step=100 x = 0...5,insertionSortBin,3900,24789828
+100-4000 step=100 x = 0...5,insertionSortBin,4000,26124214
+100-4000 step=100 x = 0...5,insertionSortBin,4100,27503826
+100-4000 step=100 x = 0...4000,insertionSortBin,100,20031
+100-4000 step=100 x = 0...4000,insertionSortBin,200,79416
+100-4000 step=100 x = 0...4000,insertionSortBin,300,181402
+100-4000 step=100 x = 0...4000,insertionSortBin,400,318066
+100-4000 step=100 x = 0...4000,insertionSortBin,500,506375
+100-4000 step=100 x = 0...4000,insertionSortBin,600,704196
+100-4000 step=100 x = 0...4000,insertionSortBin,700,953125
+100-4000 step=100 x = 0...4000,insertionSortBin,800,1270125
+100-4000 step=100 x = 0...4000,insertionSortBin,900,1573090
+100-4000 step=100 x = 0...4000,insertionSortBin,1000,1944001
+100-4000 step=100 x = 0...4000,insertionSortBin,1100,2353743
+100-4000 step=100 x = 0...4000,insertionSortBin,1200,2842092
+100-4000 step=100 x = 0...4000,insertionSortBin,1300,3301747
+100-4000 step=100 x = 0...4000,insertionSortBin,1400,3862800
+100-4000 step=100 x = 0...4000,insertionSortBin,1500,4381668
+100-4000 step=100 x = 0...4000,insertionSortBin,1600,4926211
+100-4000 step=100 x = 0...4000,insertionSortBin,1700,5663249
+100-4000 step=100 x = 0...4000,insertionSortBin,1800,6709842
+100-4000 step=100 x = 0...4000,insertionSortBin,1900,7212860
+100-4000 step=100 x = 0...4000,insertionSortBin,2000,7971222
+100-4000 step=100 x = 0...4000,insertionSortBin,2100,8736073
+100-4000 step=100 x = 0...4000,insertionSortBin,2200,9643119
+100-4000 step=100 x = 0...4000,insertionSortBin,2300,10437346
+100-4000 step=100 x = 0...4000,insertionSortBin,2400,11293609
+100-4000 step=100 x = 0...4000,insertionSortBin,2500,12285820
+100-4000 step=100 x = 0...4000,insertionSortBin,2600,13117529
+100-4000 step=100 x = 0...4000,insertionSortBin,2700,14340636
+100-4000 step=100 x = 0...4000,insertionSortBin,2800,15206252
+100-4000 step=100 x = 0...4000,insertionSortBin,2900,16436295
+100-4000 step=100 x = 0...4000,insertionSortBin,3000,17410999
+100-4000 step=100 x = 0...4000,insertionSortBin,3100,18694858
+100-4000 step=100 x = 0...4000,insertionSortBin,3200,20002065
+100-4000 step=100 x = 0...4000,insertionSortBin,3300,21558606
+100-4000 step=100 x = 0...4000,insertionSortBin,3400,22712775
+100-4000 step=100 x = 0...4000,insertionSortBin,3500,23787498
+100-4000 step=100 x = 0...4000,insertionSortBin,3600,25472391
+100-4000 step=100 x = 0...4000,insertionSortBin,3700,27225939
+100-4000 step=100 x = 0...4000,insertionSortBin,3800,28304649
+100-4000 step=100 x = 0...4000,insertionSortBin,3900,29927429
+100-4000 step=100 x = 0...4000,insertionSortBin,4000,31809443
+100-4000 step=100 x = 0...4000,insertionSortBin,4100,33632299
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,100,1561
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,200,4262
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,300,9411
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,400,19301
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,500,27535
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,600,36154
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,700,46256
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,800,59842
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,900,88661
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,1000,88434
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,1100,104638
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,1200,137094
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,1300,158656
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,1400,180878
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,1500,194568
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,1600,262624
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,1700,242277
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,1800,252732
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,1900,287303
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,2000,305781
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,2100,324088
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,2200,351371
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,2300,365749
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,2400,404285
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,2500,425372
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,2600,461170
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,2700,479142
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,2800,501350
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,2900,515516
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,3000,646015
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,3100,641529
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,3200,662996
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,3300,697191
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,3400,733884
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,3500,792902
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,3600,820387
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,3700,800702
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,3800,782892
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,3900,795793
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,4000,986615
+100-4000 step=100 almost (+- 90% sort),insertionSortBin,4100,895544
+100-4000 step=100 reverse,insertionSortBin,100,39966
+100-4000 step=100 reverse,insertionSortBin,200,156265
+100-4000 step=100 reverse,insertionSortBin,300,355243
+100-4000 step=100 reverse,insertionSortBin,400,622790
+100-4000 step=100 reverse,insertionSortBin,500,984169
+100-4000 step=100 reverse,insertionSortBin,600,1381574
+100-4000 step=100 reverse,insertionSortBin,700,1881232
+100-4000 step=100 reverse,insertionSortBin,800,2454606
+100-4000 step=100 reverse,insertionSortBin,900,3093011
+100-4000 step=100 reverse,insertionSortBin,1000,3912168
+100-4000 step=100 reverse,insertionSortBin,1100,4753335
+100-4000 step=100 reverse,insertionSortBin,1200,5628506
+100-4000 step=100 reverse,insertionSortBin,1300,6603494
+100-4000 step=100 reverse,insertionSortBin,1400,7642555
+100-4000 step=100 reverse,insertionSortBin,1500,8921324
+100-4000 step=100 reverse,insertionSortBin,1600,9872622
+100-4000 step=100 reverse,insertionSortBin,1700,11218620
+100-4000 step=100 reverse,insertionSortBin,1800,12540547
+100-4000 step=100 reverse,insertionSortBin,1900,14242764
+100-4000 step=100 reverse,insertionSortBin,2000,15425089
+100-4000 step=100 reverse,insertionSortBin,2100,17132851
+100-4000 step=100 reverse,insertionSortBin,2200,18862930
+100-4000 step=100 reverse,insertionSortBin,2300,20560441
+100-4000 step=100 reverse,insertionSortBin,2400,22341255
+100-4000 step=100 reverse,insertionSortBin,2500,24488677
+100-4000 step=100 reverse,insertionSortBin,2600,26195709
+100-4000 step=100 reverse,insertionSortBin,2700,28763554
+100-4000 step=100 reverse,insertionSortBin,2800,30757519
+100-4000 step=100 reverse,insertionSortBin,2900,32826950
+100-4000 step=100 reverse,insertionSortBin,3000,35067109
+100-4000 step=100 reverse,insertionSortBin,3100,38369209
+100-4000 step=100 reverse,insertionSortBin,3200,39815170
+100-4000 step=100 reverse,insertionSortBin,3300,42034819
+100-4000 step=100 reverse,insertionSortBin,3400,44853861
+100-4000 step=100 reverse,insertionSortBin,3500,47196119
+100-4000 step=100 reverse,insertionSortBin,3600,50288483
+100-4000 step=100 reverse,insertionSortBin,3700,53180148
+100-4000 step=100 reverse,insertionSortBin,3800,56062049
+100-4000 step=100 reverse,insertionSortBin,3900,58901739
+100-4000 step=100 reverse,insertionSortBin,4000,61942094
+100-4000 step=100 reverse,insertionSortBin,4100,65024608
+50-300 step=50 x = 0...5,countSort,50,625
+50-300 step=50 x = 0...5,countSort,100,1157
+50-300 step=50 x = 0...5,countSort,150,1671
+50-300 step=50 x = 0...5,countSort,200,2219
+50-300 step=50 x = 0...5,countSort,250,3692
+50-300 step=50 x = 0...5,countSort,300,3222
+50-300 step=50 x = 0...4000,countSort,50,14916
+50-300 step=50 x = 0...4000,countSort,100,14841
+50-300 step=50 x = 0...4000,countSort,150,15263
+50-300 step=50 x = 0...4000,countSort,200,17590
+50-300 step=50 x = 0...4000,countSort,250,17304
+50-300 step=50 x = 0...4000,countSort,300,16826
+50-300 step=50 almost (+- 90% sort),countSort,50,3497
+50-300 step=50 almost (+- 90% sort),countSort,100,4046
+50-300 step=50 almost (+- 90% sort),countSort,150,12534
+50-300 step=50 almost (+- 90% sort),countSort,200,13089
+50-300 step=50 almost (+- 90% sort),countSort,250,14120
+50-300 step=50 almost (+- 90% sort),countSort,300,14913
+50-300 step=50 reverse,countSort,50,768
+50-300 step=50 reverse,countSort,100,1492
+50-300 step=50 reverse,countSort,150,2158
+50-300 step=50 reverse,countSort,200,2844
+50-300 step=50 reverse,countSort,250,3637
+50-300 step=50 reverse,countSort,300,4226
+100-4000 step=100 x = 0...5,countSort,100,1098
+100-4000 step=100 x = 0...5,countSort,200,2080
+100-4000 step=100 x = 0...5,countSort,300,3064
+100-4000 step=100 x = 0...5,countSort,400,4044
+100-4000 step=100 x = 0...5,countSort,500,5038
+100-4000 step=100 x = 0...5,countSort,600,6026
+100-4000 step=100 x = 0...5,countSort,700,6975
+100-4000 step=100 x = 0...5,countSort,800,7958
+100-4000 step=100 x = 0...5,countSort,900,8967
+100-4000 step=100 x = 0...5,countSort,1000,9932
+100-4000 step=100 x = 0...5,countSort,1100,10897
+100-4000 step=100 x = 0...5,countSort,1200,11880
+100-4000 step=100 x = 0...5,countSort,1300,12875
+100-4000 step=100 x = 0...5,countSort,1400,13836
+100-4000 step=100 x = 0...5,countSort,1500,14835
+100-4000 step=100 x = 0...5,countSort,1600,18449
+100-4000 step=100 x = 0...5,countSort,1700,16792
+100-4000 step=100 x = 0...5,countSort,1800,17760
+100-4000 step=100 x = 0...5,countSort,1900,19682
+100-4000 step=100 x = 0...5,countSort,2000,20667
+100-4000 step=100 x = 0...5,countSort,2100,21703
+100-4000 step=100 x = 0...5,countSort,2200,22765
+100-4000 step=100 x = 0...5,countSort,2300,23790
+100-4000 step=100 x = 0...5,countSort,2400,24785
+100-4000 step=100 x = 0...5,countSort,2500,25830
+100-4000 step=100 x = 0...5,countSort,2600,26884
+100-4000 step=100 x = 0...5,countSort,2700,27875
+100-4000 step=100 x = 0...5,countSort,2800,28881
+100-4000 step=100 x = 0...5,countSort,2900,29948
+100-4000 step=100 x = 0...5,countSort,3000,31125
+100-4000 step=100 x = 0...5,countSort,3100,32001
+100-4000 step=100 x = 0...5,countSort,3200,32223
+100-4000 step=100 x = 0...5,countSort,3300,35565
+100-4000 step=100 x = 0...5,countSort,3400,34318
+100-4000 step=100 x = 0...5,countSort,3500,35330
+100-4000 step=100 x = 0...5,countSort,3600,44232
+100-4000 step=100 x = 0...5,countSort,3700,37438
+100-4000 step=100 x = 0...5,countSort,3800,38209
+100-4000 step=100 x = 0...5,countSort,3900,41410
+100-4000 step=100 x = 0...5,countSort,4000,40476
+100-4000 step=100 x = 0...5,countSort,4100,42612
+100-4000 step=100 x = 0...4000,countSort,100,14050
+100-4000 step=100 x = 0...4000,countSort,200,15060
+100-4000 step=100 x = 0...4000,countSort,300,15922
+100-4000 step=100 x = 0...4000,countSort,400,16897
+100-4000 step=100 x = 0...4000,countSort,500,18016
+100-4000 step=100 x = 0...4000,countSort,600,18875
+100-4000 step=100 x = 0...4000,countSort,700,20071
+100-4000 step=100 x = 0...4000,countSort,800,20956
+100-4000 step=100 x = 0...4000,countSort,900,21995
+100-4000 step=100 x = 0...4000,countSort,1000,22862
+100-4000 step=100 x = 0...4000,countSort,1100,23759
+100-4000 step=100 x = 0...4000,countSort,1200,24738
+100-4000 step=100 x = 0...4000,countSort,1300,25694
+100-4000 step=100 x = 0...4000,countSort,1400,26660
+100-4000 step=100 x = 0...4000,countSort,1500,27595
+100-4000 step=100 x = 0...4000,countSort,1600,30631
+100-4000 step=100 x = 0...4000,countSort,1700,29560
+100-4000 step=100 x = 0...4000,countSort,1800,32031
+100-4000 step=100 x = 0...4000,countSort,1900,32719
+100-4000 step=100 x = 0...4000,countSort,2000,34040
+100-4000 step=100 x = 0...4000,countSort,2100,35095
+100-4000 step=100 x = 0...4000,countSort,2200,36039
+100-4000 step=100 x = 0...4000,countSort,2300,37148
+100-4000 step=100 x = 0...4000,countSort,2400,38296
+100-4000 step=100 x = 0...4000,countSort,2500,39303
+100-4000 step=100 x = 0...4000,countSort,2600,40336
+100-4000 step=100 x = 0...4000,countSort,2700,41432
+100-4000 step=100 x = 0...4000,countSort,2800,42376
+100-4000 step=100 x = 0...4000,countSort,2900,43432
+100-4000 step=100 x = 0...4000,countSort,3000,44943
+100-4000 step=100 x = 0...4000,countSort,3100,45832
+100-4000 step=100 x = 0...4000,countSort,3200,45677
+100-4000 step=100 x = 0...4000,countSort,3300,52760
+100-4000 step=100 x = 0...4000,countSort,3400,47992
+100-4000 step=100 x = 0...4000,countSort,3500,49671
+100-4000 step=100 x = 0...4000,countSort,3600,50878
+100-4000 step=100 x = 0...4000,countSort,3700,50909
+100-4000 step=100 x = 0...4000,countSort,3800,52297
+100-4000 step=100 x = 0...4000,countSort,3900,52495
+100-4000 step=100 x = 0...4000,countSort,4000,53777
+100-4000 step=100 x = 0...4000,countSort,4100,60138
+100-4000 step=100 almost (+- 90% sort),countSort,100,3830
+100-4000 step=100 almost (+- 90% sort),countSort,200,12488
+100-4000 step=100 almost (+- 90% sort),countSort,300,14201
+100-4000 step=100 almost (+- 90% sort),countSort,400,15094
+100-4000 step=100 almost (+- 90% sort),countSort,500,17863
+100-4000 step=100 almost (+- 90% sort),countSort,600,18798
+100-4000 step=100 almost (+- 90% sort),countSort,700,19806
+100-4000 step=100 almost (+- 90% sort),countSort,800,20722
+100-4000 step=100 almost (+- 90% sort),countSort,900,21656
+100-4000 step=100 almost (+- 90% sort),countSort,1000,23145
+100-4000 step=100 almost (+- 90% sort),countSort,1100,24140
+100-4000 step=100 almost (+- 90% sort),countSort,1200,25011
+100-4000 step=100 almost (+- 90% sort),countSort,1300,26047
+100-4000 step=100 almost (+- 90% sort),countSort,1400,27067
+100-4000 step=100 almost (+- 90% sort),countSort,1500,27899
+100-4000 step=100 almost (+- 90% sort),countSort,1600,28923
+100-4000 step=100 almost (+- 90% sort),countSort,1700,29892
+100-4000 step=100 almost (+- 90% sort),countSort,1800,30854
+100-4000 step=100 almost (+- 90% sort),countSort,1900,31953
+100-4000 step=100 almost (+- 90% sort),countSort,2000,34404
+100-4000 step=100 almost (+- 90% sort),countSort,2100,35478
+100-4000 step=100 almost (+- 90% sort),countSort,2200,36445
+100-4000 step=100 almost (+- 90% sort),countSort,2300,37568
+100-4000 step=100 almost (+- 90% sort),countSort,2400,38446
+100-4000 step=100 almost (+- 90% sort),countSort,2500,39498
+100-4000 step=100 almost (+- 90% sort),countSort,2600,40575
+100-4000 step=100 almost (+- 90% sort),countSort,2700,41618
+100-4000 step=100 almost (+- 90% sort),countSort,2800,44811
+100-4000 step=100 almost (+- 90% sort),countSort,2900,43749
+100-4000 step=100 almost (+- 90% sort),countSort,3000,46327
+100-4000 step=100 almost (+- 90% sort),countSort,3100,46097
+100-4000 step=100 almost (+- 90% sort),countSort,3200,46257
+100-4000 step=100 almost (+- 90% sort),countSort,3300,46624
+100-4000 step=100 almost (+- 90% sort),countSort,3400,48115
+100-4000 step=100 almost (+- 90% sort),countSort,3500,57162
+100-4000 step=100 almost (+- 90% sort),countSort,3600,49662
+100-4000 step=100 almost (+- 90% sort),countSort,3700,51046
+100-4000 step=100 almost (+- 90% sort),countSort,3800,59908
+100-4000 step=100 almost (+- 90% sort),countSort,3900,52736
+100-4000 step=100 almost (+- 90% sort),countSort,4000,54092
+100-4000 step=100 almost (+- 90% sort),countSort,4100,54866
+100-4000 step=100 reverse,countSort,100,1425
+100-4000 step=100 reverse,countSort,200,2720
+100-4000 step=100 reverse,countSort,300,3990
+100-4000 step=100 reverse,countSort,400,5319
+100-4000 step=100 reverse,countSort,500,6606
+100-4000 step=100 reverse,countSort,600,7914
+100-4000 step=100 reverse,countSort,700,9225
+100-4000 step=100 reverse,countSort,800,10554
+100-4000 step=100 reverse,countSort,900,11874
+100-4000 step=100 reverse,countSort,1000,13244
+100-4000 step=100 reverse,countSort,1100,14512
+100-4000 step=100 reverse,countSort,1200,15771
+100-4000 step=100 reverse,countSort,1300,17063
+100-4000 step=100 reverse,countSort,1400,18443
+100-4000 step=100 reverse,countSort,1500,19679
+100-4000 step=100 reverse,countSort,1600,21017
+100-4000 step=100 reverse,countSort,1700,22287
+100-4000 step=100 reverse,countSort,1800,23661
+100-4000 step=100 reverse,countSort,1900,24847
+100-4000 step=100 reverse,countSort,2000,27483
+100-4000 step=100 reverse,countSort,2100,28742
+100-4000 step=100 reverse,countSort,2200,30708
+100-4000 step=100 reverse,countSort,2300,31457
+100-4000 step=100 reverse,countSort,2400,32803
+100-4000 step=100 reverse,countSort,2500,34158
+100-4000 step=100 reverse,countSort,2600,35510
+100-4000 step=100 reverse,countSort,2700,37017
+100-4000 step=100 reverse,countSort,2800,38239
+100-4000 step=100 reverse,countSort,2900,39541
+100-4000 step=100 reverse,countSort,3000,41065
+100-4000 step=100 reverse,countSort,3100,42717
+100-4000 step=100 reverse,countSort,3200,45944
+100-4000 step=100 reverse,countSort,3300,44159
+100-4000 step=100 reverse,countSort,3400,45645
+100-4000 step=100 reverse,countSort,3500,46822
+100-4000 step=100 reverse,countSort,3600,48925
+100-4000 step=100 reverse,countSort,3700,52103
+100-4000 step=100 reverse,countSort,3800,50875
+100-4000 step=100 reverse,countSort,3900,52283
+100-4000 step=100 reverse,countSort,4000,64062
+100-4000 step=100 reverse,countSort,4100,57069
+50-300 step=50 x = 0...5,radixSort,50,9422
+50-300 step=50 x = 0...5,radixSort,100,11372
+50-300 step=50 x = 0...5,radixSort,150,13882
+50-300 step=50 x = 0...5,radixSort,200,16449
+50-300 step=50 x = 0...5,radixSort,250,19730
+50-300 step=50 x = 0...5,radixSort,300,28138
+50-300 step=50 x = 0...4000,radixSort,50,8930
+50-300 step=50 x = 0...4000,radixSort,100,11320
+50-300 step=50 x = 0...4000,radixSort,150,14573
+50-300 step=50 x = 0...4000,radixSort,200,16372
+50-300 step=50 x = 0...4000,radixSort,250,18986
+50-300 step=50 x = 0...4000,radixSort,300,33090
+50-300 step=50 almost (+- 90% sort),radixSort,50,8778
+50-300 step=50 almost (+- 90% sort),radixSort,100,15432
+50-300 step=50 almost (+- 90% sort),radixSort,150,15209
+50-300 step=50 almost (+- 90% sort),radixSort,200,16396
+50-300 step=50 almost (+- 90% sort),radixSort,250,19021
+50-300 step=50 almost (+- 90% sort),radixSort,300,43418
+50-300 step=50 reverse,radixSort,50,12057
+50-300 step=50 reverse,radixSort,100,26458
+50-300 step=50 reverse,radixSort,150,13852
+50-300 step=50 reverse,radixSort,200,16400
+50-300 step=50 reverse,radixSort,250,19035
+50-300 step=50 reverse,radixSort,300,41105
+100-4000 step=100 x = 0...5,radixSort,100,15042
+100-4000 step=100 x = 0...5,radixSort,200,18745
+100-4000 step=100 x = 0...5,radixSort,300,23508
+100-4000 step=100 x = 0...5,radixSort,400,27893
+100-4000 step=100 x = 0...5,radixSort,500,32717
+100-4000 step=100 x = 0...5,radixSort,600,36842
+100-4000 step=100 x = 0...5,radixSort,700,43652
+100-4000 step=100 x = 0...5,radixSort,800,46964
+100-4000 step=100 x = 0...5,radixSort,900,52837
+100-4000 step=100 x = 0...5,radixSort,1000,56622
+100-4000 step=100 x = 0...5,radixSort,1100,61657
+100-4000 step=100 x = 0...5,radixSort,1200,66752
+100-4000 step=100 x = 0...5,radixSort,1300,73806
+100-4000 step=100 x = 0...5,radixSort,1400,82358
+100-4000 step=100 x = 0...5,radixSort,1500,87701
+100-4000 step=100 x = 0...5,radixSort,1600,92986
+100-4000 step=100 x = 0...5,radixSort,1700,100252
+100-4000 step=100 x = 0...5,radixSort,1800,104361
+100-4000 step=100 x = 0...5,radixSort,1900,111497
+100-4000 step=100 x = 0...5,radixSort,2000,116711
+100-4000 step=100 x = 0...5,radixSort,2100,118759
+100-4000 step=100 x = 0...5,radixSort,2200,127786
+100-4000 step=100 x = 0...5,radixSort,2300,130690
+100-4000 step=100 x = 0...5,radixSort,2400,136437
+100-4000 step=100 x = 0...5,radixSort,2500,143885
+100-4000 step=100 x = 0...5,radixSort,2600,151252
+100-4000 step=100 x = 0...5,radixSort,2700,158600
+100-4000 step=100 x = 0...5,radixSort,2800,179887
+100-4000 step=100 x = 0...5,radixSort,2900,184334
+100-4000 step=100 x = 0...5,radixSort,3000,159930
+100-4000 step=100 x = 0...5,radixSort,3100,167534
+100-4000 step=100 x = 0...5,radixSort,3200,180942
+100-4000 step=100 x = 0...5,radixSort,3300,187339
+100-4000 step=100 x = 0...5,radixSort,3400,194585
+100-4000 step=100 x = 0...5,radixSort,3500,189329
+100-4000 step=100 x = 0...5,radixSort,3600,215237
+100-4000 step=100 x = 0...5,radixSort,3700,207063
+100-4000 step=100 x = 0...5,radixSort,3800,221710
+100-4000 step=100 x = 0...5,radixSort,3900,221850
+100-4000 step=100 x = 0...5,radixSort,4000,227663
+100-4000 step=100 x = 0...5,radixSort,4100,228445
+100-4000 step=100 x = 0...4000,radixSort,100,11896
+100-4000 step=100 x = 0...4000,radixSort,200,17258
+100-4000 step=100 x = 0...4000,radixSort,300,26166
+100-4000 step=100 x = 0...4000,radixSort,400,27980
+100-4000 step=100 x = 0...4000,radixSort,500,31149
+100-4000 step=100 x = 0...4000,radixSort,600,36896
+100-4000 step=100 x = 0...4000,radixSort,700,70290
+100-4000 step=100 x = 0...4000,radixSort,800,47319
+100-4000 step=100 x = 0...4000,radixSort,900,51417
+100-4000 step=100 x = 0...4000,radixSort,1000,56548
+100-4000 step=100 x = 0...4000,radixSort,1100,62952
+100-4000 step=100 x = 0...4000,radixSort,1200,71036
+100-4000 step=100 x = 0...4000,radixSort,1300,72236
+100-4000 step=100 x = 0...4000,radixSort,1400,82047
+100-4000 step=100 x = 0...4000,radixSort,1500,87475
+100-4000 step=100 x = 0...4000,radixSort,1600,92845
+100-4000 step=100 x = 0...4000,radixSort,1700,98108
+100-4000 step=100 x = 0...4000,radixSort,1800,105305
+100-4000 step=100 x = 0...4000,radixSort,1900,106662
+100-4000 step=100 x = 0...4000,radixSort,2000,119208
+100-4000 step=100 x = 0...4000,radixSort,2100,117950
+100-4000 step=100 x = 0...4000,radixSort,2200,129432
+100-4000 step=100 x = 0...4000,radixSort,2300,138755
+100-4000 step=100 x = 0...4000,radixSort,2400,136027
+100-4000 step=100 x = 0...4000,radixSort,2500,141513
+100-4000 step=100 x = 0...4000,radixSort,2600,149343
+100-4000 step=100 x = 0...4000,radixSort,2700,153923
+100-4000 step=100 x = 0...4000,radixSort,2800,172010
+100-4000 step=100 x = 0...4000,radixSort,2900,165591
+100-4000 step=100 x = 0...4000,radixSort,3000,160827
+100-4000 step=100 x = 0...4000,radixSort,3100,164893
+100-4000 step=100 x = 0...4000,radixSort,3200,182089
+100-4000 step=100 x = 0...4000,radixSort,3300,186730
+100-4000 step=100 x = 0...4000,radixSort,3400,192430
+100-4000 step=100 x = 0...4000,radixSort,3500,204996
+100-4000 step=100 x = 0...4000,radixSort,3600,200690
+100-4000 step=100 x = 0...4000,radixSort,3700,209345
+100-4000 step=100 x = 0...4000,radixSort,3800,217904
+100-4000 step=100 x = 0...4000,radixSort,3900,221055
+100-4000 step=100 x = 0...4000,radixSort,4000,233666
+100-4000 step=100 x = 0...4000,radixSort,4100,237393
+100-4000 step=100 almost (+- 90% sort),radixSort,100,21522
+100-4000 step=100 almost (+- 90% sort),radixSort,200,17219
+100-4000 step=100 almost (+- 90% sort),radixSort,300,25676
+100-4000 step=100 almost (+- 90% sort),radixSort,400,27992
+100-4000 step=100 almost (+- 90% sort),radixSort,500,31144
+100-4000 step=100 almost (+- 90% sort),radixSort,600,36191
+100-4000 step=100 almost (+- 90% sort),radixSort,700,66189
+100-4000 step=100 almost (+- 90% sort),radixSort,800,46243
+100-4000 step=100 almost (+- 90% sort),radixSort,900,52355
+100-4000 step=100 almost (+- 90% sort),radixSort,1000,56551
+100-4000 step=100 almost (+- 90% sort),radixSort,1100,62233
+100-4000 step=100 almost (+- 90% sort),radixSort,1200,66711
+100-4000 step=100 almost (+- 90% sort),radixSort,1300,71526
+100-4000 step=100 almost (+- 90% sort),radixSort,1400,82000
+100-4000 step=100 almost (+- 90% sort),radixSort,1500,87408
+100-4000 step=100 almost (+- 90% sort),radixSort,1600,92787
+100-4000 step=100 almost (+- 90% sort),radixSort,1700,98032
+100-4000 step=100 almost (+- 90% sort),radixSort,1800,103703
+100-4000 step=100 almost (+- 90% sort),radixSort,1900,118198
+100-4000 step=100 almost (+- 90% sort),radixSort,2000,112660
+100-4000 step=100 almost (+- 90% sort),radixSort,2100,126033
+100-4000 step=100 almost (+- 90% sort),radixSort,2200,125021
+100-4000 step=100 almost (+- 90% sort),radixSort,2300,136381
+100-4000 step=100 almost (+- 90% sort),radixSort,2400,140020
+100-4000 step=100 almost (+- 90% sort),radixSort,2500,141385
+100-4000 step=100 almost (+- 90% sort),radixSort,2600,149667
+100-4000 step=100 almost (+- 90% sort),radixSort,2700,158752
+100-4000 step=100 almost (+- 90% sort),radixSort,2800,175346
+100-4000 step=100 almost (+- 90% sort),radixSort,2900,173468
+100-4000 step=100 almost (+- 90% sort),radixSort,3000,185289
+100-4000 step=100 almost (+- 90% sort),radixSort,3100,164185
+100-4000 step=100 almost (+- 90% sort),radixSort,3200,173904
+100-4000 step=100 almost (+- 90% sort),radixSort,3300,186611
+100-4000 step=100 almost (+- 90% sort),radixSort,3400,192313
+100-4000 step=100 almost (+- 90% sort),radixSort,3500,194281
+100-4000 step=100 almost (+- 90% sort),radixSort,3600,203936
+100-4000 step=100 almost (+- 90% sort),radixSort,3700,213935
+100-4000 step=100 almost (+- 90% sort),radixSort,3800,225480
+100-4000 step=100 almost (+- 90% sort),radixSort,3900,216352
+100-4000 step=100 almost (+- 90% sort),radixSort,4000,234356
+100-4000 step=100 almost (+- 90% sort),radixSort,4100,242434
+100-4000 step=100 reverse,radixSort,100,12739
+100-4000 step=100 reverse,radixSort,200,18613
+100-4000 step=100 reverse,radixSort,300,31133
+100-4000 step=100 reverse,radixSort,400,31061
+100-4000 step=100 reverse,radixSort,500,31214
+100-4000 step=100 reverse,radixSort,600,36196
+100-4000 step=100 reverse,radixSort,700,41848
+100-4000 step=100 reverse,radixSort,800,51468
+100-4000 step=100 reverse,radixSort,900,52352
+100-4000 step=100 reverse,radixSort,1000,56634
+100-4000 step=100 reverse,radixSort,1100,62904
+100-4000 step=100 reverse,radixSort,1200,66556
+100-4000 step=100 reverse,radixSort,1300,71568
+100-4000 step=100 reverse,radixSort,1400,81457
+100-4000 step=100 reverse,radixSort,1500,87371
+100-4000 step=100 reverse,radixSort,1600,92980
+100-4000 step=100 reverse,radixSort,1700,98112
+100-4000 step=100 reverse,radixSort,1800,103694
+100-4000 step=100 reverse,radixSort,1900,109468
+100-4000 step=100 reverse,radixSort,2000,116131
+100-4000 step=100 reverse,radixSort,2100,120086
+100-4000 step=100 reverse,radixSort,2200,132411
+100-4000 step=100 reverse,radixSort,2300,131710
+100-4000 step=100 reverse,radixSort,2400,136020
+100-4000 step=100 reverse,radixSort,2500,141618
+100-4000 step=100 reverse,radixSort,2600,147092
+100-4000 step=100 reverse,radixSort,2700,152889
+100-4000 step=100 reverse,radixSort,2800,172243
+100-4000 step=100 reverse,radixSort,2900,166671
+100-4000 step=100 reverse,radixSort,3000,197409
+100-4000 step=100 reverse,radixSort,3100,165983
+100-4000 step=100 reverse,radixSort,3200,168776
+100-4000 step=100 reverse,radixSort,3300,186316
+100-4000 step=100 reverse,radixSort,3400,192064
+100-4000 step=100 reverse,radixSort,3500,192380
+100-4000 step=100 reverse,radixSort,3600,204483
+100-4000 step=100 reverse,radixSort,3700,199647
+100-4000 step=100 reverse,radixSort,3800,223051
+100-4000 step=100 reverse,radixSort,3900,216819
+100-4000 step=100 reverse,radixSort,4000,229168
+100-4000 step=100 reverse,radixSort,4100,237493
+50-300 step=50 x = 0...5,mergeSort,50,1952
+50-300 step=50 x = 0...5,mergeSort,100,4728
+50-300 step=50 x = 0...5,mergeSort,150,8295
+50-300 step=50 x = 0...5,mergeSort,200,11718
+50-300 step=50 x = 0...5,mergeSort,250,15142
+50-300 step=50 x = 0...5,mergeSort,300,26593
+50-300 step=50 x = 0...4000,mergeSort,50,2119
+50-300 step=50 x = 0...4000,mergeSort,100,5419
+50-300 step=50 x = 0...4000,mergeSort,150,9491
+50-300 step=50 x = 0...4000,mergeSort,200,13584
+50-300 step=50 x = 0...4000,mergeSort,250,17916
+50-300 step=50 x = 0...4000,mergeSort,300,21993
+50-300 step=50 almost (+- 90% sort),mergeSort,50,1777
+50-300 step=50 almost (+- 90% sort),mergeSort,100,3995
+50-300 step=50 almost (+- 90% sort),mergeSort,150,6375
+50-300 step=50 almost (+- 90% sort),mergeSort,200,8932
+50-300 step=50 almost (+- 90% sort),mergeSort,250,11715
+50-300 step=50 almost (+- 90% sort),mergeSort,300,14319
+50-300 step=50 reverse,mergeSort,50,1659
+50-300 step=50 reverse,mergeSort,100,3738
+50-300 step=50 reverse,mergeSort,150,6139
+50-300 step=50 reverse,mergeSort,200,8326
+50-300 step=50 reverse,mergeSort,250,10664
+50-300 step=50 reverse,mergeSort,300,15387
+100-4000 step=100 x = 0...5,mergeSort,100,4386
+100-4000 step=100 x = 0...5,mergeSort,200,10826
+100-4000 step=100 x = 0...5,mergeSort,300,17655
+100-4000 step=100 x = 0...5,mergeSort,400,24938
+100-4000 step=100 x = 0...5,mergeSort,500,34384
+100-4000 step=100 x = 0...5,mergeSort,600,43290
+100-4000 step=100 x = 0...5,mergeSort,700,50644
+100-4000 step=100 x = 0...5,mergeSort,800,59283
+100-4000 step=100 x = 0...5,mergeSort,900,66670
+100-4000 step=100 x = 0...5,mergeSort,1000,76136
+100-4000 step=100 x = 0...5,mergeSort,1100,84997
+100-4000 step=100 x = 0...5,mergeSort,1200,94310
+100-4000 step=100 x = 0...5,mergeSort,1300,99504
+100-4000 step=100 x = 0...5,mergeSort,1400,112053
+100-4000 step=100 x = 0...5,mergeSort,1500,115980
+100-4000 step=100 x = 0...5,mergeSort,1600,131883
+100-4000 step=100 x = 0...5,mergeSort,1700,140125
+100-4000 step=100 x = 0...5,mergeSort,1800,143909
+100-4000 step=100 x = 0...5,mergeSort,1900,155084
+100-4000 step=100 x = 0...5,mergeSort,2000,163512
+100-4000 step=100 x = 0...5,mergeSort,2100,175287
+100-4000 step=100 x = 0...5,mergeSort,2200,184991
+100-4000 step=100 x = 0...5,mergeSort,2300,195394
+100-4000 step=100 x = 0...5,mergeSort,2400,188260
+100-4000 step=100 x = 0...5,mergeSort,2500,199209
+100-4000 step=100 x = 0...5,mergeSort,2600,217919
+100-4000 step=100 x = 0...5,mergeSort,2700,227225
+100-4000 step=100 x = 0...5,mergeSort,2800,245847
+100-4000 step=100 x = 0...5,mergeSort,2900,247969
+100-4000 step=100 x = 0...5,mergeSort,3000,256570
+100-4000 step=100 x = 0...5,mergeSort,3100,261814
+100-4000 step=100 x = 0...5,mergeSort,3200,273755
+100-4000 step=100 x = 0...5,mergeSort,3300,290914
+100-4000 step=100 x = 0...5,mergeSort,3400,340618
+100-4000 step=100 x = 0...5,mergeSort,3500,283505
+100-4000 step=100 x = 0...5,mergeSort,3600,313083
+100-4000 step=100 x = 0...5,mergeSort,3700,327170
+100-4000 step=100 x = 0...5,mergeSort,3800,340642
+100-4000 step=100 x = 0...5,mergeSort,3900,349926
+100-4000 step=100 x = 0...5,mergeSort,4000,367457
+100-4000 step=100 x = 0...5,mergeSort,4100,376829
+100-4000 step=100 x = 0...4000,mergeSort,100,5027
+100-4000 step=100 x = 0...4000,mergeSort,200,12561
+100-4000 step=100 x = 0...4000,mergeSort,300,20748
+100-4000 step=100 x = 0...4000,mergeSort,400,29781
+100-4000 step=100 x = 0...4000,mergeSort,500,41864
+100-4000 step=100 x = 0...4000,mergeSort,600,52493
+100-4000 step=100 x = 0...4000,mergeSort,700,62872
+100-4000 step=100 x = 0...4000,mergeSort,800,72932
+100-4000 step=100 x = 0...4000,mergeSort,900,83834
+100-4000 step=100 x = 0...4000,mergeSort,1000,95767
+100-4000 step=100 x = 0...4000,mergeSort,1100,108799
+100-4000 step=100 x = 0...4000,mergeSort,1200,120627
+100-4000 step=100 x = 0...4000,mergeSort,1300,130212
+100-4000 step=100 x = 0...4000,mergeSort,1400,137507
+100-4000 step=100 x = 0...4000,mergeSort,1500,158895
+100-4000 step=100 x = 0...4000,mergeSort,1600,167468
+100-4000 step=100 x = 0...4000,mergeSort,1700,175990
+100-4000 step=100 x = 0...4000,mergeSort,1800,189311
+100-4000 step=100 x = 0...4000,mergeSort,1900,200781
+100-4000 step=100 x = 0...4000,mergeSort,2000,213812
+100-4000 step=100 x = 0...4000,mergeSort,2100,227670
+100-4000 step=100 x = 0...4000,mergeSort,2200,244133
+100-4000 step=100 x = 0...4000,mergeSort,2300,248368
+100-4000 step=100 x = 0...4000,mergeSort,2400,248285
+100-4000 step=100 x = 0...4000,mergeSort,2500,273386
+100-4000 step=100 x = 0...4000,mergeSort,2600,275584
+100-4000 step=100 x = 0...4000,mergeSort,2700,296349
+100-4000 step=100 x = 0...4000,mergeSort,2800,309578
+100-4000 step=100 x = 0...4000,mergeSort,2900,326555
+100-4000 step=100 x = 0...4000,mergeSort,3000,332134
+100-4000 step=100 x = 0...4000,mergeSort,3100,348929
+100-4000 step=100 x = 0...4000,mergeSort,3200,356377
+100-4000 step=100 x = 0...4000,mergeSort,3300,377531
+100-4000 step=100 x = 0...4000,mergeSort,3400,391416
+100-4000 step=100 x = 0...4000,mergeSort,3500,368345
+100-4000 step=100 x = 0...4000,mergeSort,3600,408531
+100-4000 step=100 x = 0...4000,mergeSort,3700,430382
+100-4000 step=100 x = 0...4000,mergeSort,3800,446489
+100-4000 step=100 x = 0...4000,mergeSort,3900,469487
+100-4000 step=100 x = 0...4000,mergeSort,4000,472120
+100-4000 step=100 x = 0...4000,mergeSort,4100,497269
+100-4000 step=100 almost (+- 90% sort),mergeSort,100,3724
+100-4000 step=100 almost (+- 90% sort),mergeSort,200,8308
+100-4000 step=100 almost (+- 90% sort),mergeSort,300,13360
+100-4000 step=100 almost (+- 90% sort),mergeSort,400,19595
+100-4000 step=100 almost (+- 90% sort),mergeSort,500,24461
+100-4000 step=100 almost (+- 90% sort),mergeSort,600,31421
+100-4000 step=100 almost (+- 90% sort),mergeSort,700,37194
+100-4000 step=100 almost (+- 90% sort),mergeSort,800,42879
+100-4000 step=100 almost (+- 90% sort),mergeSort,900,49781
+100-4000 step=100 almost (+- 90% sort),mergeSort,1000,56498
+100-4000 step=100 almost (+- 90% sort),mergeSort,1100,61697
+100-4000 step=100 almost (+- 90% sort),mergeSort,1200,70364
+100-4000 step=100 almost (+- 90% sort),mergeSort,1300,79558
+100-4000 step=100 almost (+- 90% sort),mergeSort,1400,82171
+100-4000 step=100 almost (+- 90% sort),mergeSort,1500,85976
+100-4000 step=100 almost (+- 90% sort),mergeSort,1600,93630
+100-4000 step=100 almost (+- 90% sort),mergeSort,1700,99534
+100-4000 step=100 almost (+- 90% sort),mergeSort,1800,107792
+100-4000 step=100 almost (+- 90% sort),mergeSort,1900,117844
+100-4000 step=100 almost (+- 90% sort),mergeSort,2000,123037
+100-4000 step=100 almost (+- 90% sort),mergeSort,2100,130185
+100-4000 step=100 almost (+- 90% sort),mergeSort,2200,136337
+100-4000 step=100 almost (+- 90% sort),mergeSort,2300,145389
+100-4000 step=100 almost (+- 90% sort),mergeSort,2400,198059
+100-4000 step=100 almost (+- 90% sort),mergeSort,2500,145434
+100-4000 step=100 almost (+- 90% sort),mergeSort,2600,151304
+100-4000 step=100 almost (+- 90% sort),mergeSort,2700,169044
+100-4000 step=100 almost (+- 90% sort),mergeSort,2800,176244
+100-4000 step=100 almost (+- 90% sort),mergeSort,2900,184989
+100-4000 step=100 almost (+- 90% sort),mergeSort,3000,192963
+100-4000 step=100 almost (+- 90% sort),mergeSort,3100,196297
+100-4000 step=100 almost (+- 90% sort),mergeSort,3200,203657
+100-4000 step=100 almost (+- 90% sort),mergeSort,3300,216572
+100-4000 step=100 almost (+- 90% sort),mergeSort,3400,224414
+100-4000 step=100 almost (+- 90% sort),mergeSort,3500,215325
+100-4000 step=100 almost (+- 90% sort),mergeSort,3600,220331
+100-4000 step=100 almost (+- 90% sort),mergeSort,3700,245042
+100-4000 step=100 almost (+- 90% sort),mergeSort,3800,256611
+100-4000 step=100 almost (+- 90% sort),mergeSort,3900,274864
+100-4000 step=100 almost (+- 90% sort),mergeSort,4000,271975
+100-4000 step=100 almost (+- 90% sort),mergeSort,4100,282005
+100-4000 step=100 reverse,mergeSort,100,3572
+100-4000 step=100 reverse,mergeSort,200,7730
+100-4000 step=100 reverse,mergeSort,300,12568
+100-4000 step=100 reverse,mergeSort,400,17060
+100-4000 step=100 reverse,mergeSort,500,21667
+100-4000 step=100 reverse,mergeSort,600,29365
+100-4000 step=100 reverse,mergeSort,700,34741
+100-4000 step=100 reverse,mergeSort,800,39965
+100-4000 step=100 reverse,mergeSort,900,45358
+100-4000 step=100 reverse,mergeSort,1000,50748
+100-4000 step=100 reverse,mergeSort,1100,57001
+100-4000 step=100 reverse,mergeSort,1200,63918
+100-4000 step=100 reverse,mergeSort,1300,69900
+100-4000 step=100 reverse,mergeSort,1400,77268
+100-4000 step=100 reverse,mergeSort,1500,84726
+100-4000 step=100 reverse,mergeSort,1600,85146
+100-4000 step=100 reverse,mergeSort,1700,106289
+100-4000 step=100 reverse,mergeSort,1800,104099
+100-4000 step=100 reverse,mergeSort,1900,105300
+100-4000 step=100 reverse,mergeSort,2000,110893
+100-4000 step=100 reverse,mergeSort,2100,120090
+100-4000 step=100 reverse,mergeSort,2200,126483
+100-4000 step=100 reverse,mergeSort,2300,134039
+100-4000 step=100 reverse,mergeSort,2400,137063
+100-4000 step=100 reverse,mergeSort,2500,136510
+100-4000 step=100 reverse,mergeSort,2600,141198
+100-4000 step=100 reverse,mergeSort,2700,156788
+100-4000 step=100 reverse,mergeSort,2800,161782
+100-4000 step=100 reverse,mergeSort,2900,161878
+100-4000 step=100 reverse,mergeSort,3000,170439
+100-4000 step=100 reverse,mergeSort,3100,189569
+100-4000 step=100 reverse,mergeSort,3200,186639
+100-4000 step=100 reverse,mergeSort,3300,195505
+100-4000 step=100 reverse,mergeSort,3400,200740
+100-4000 step=100 reverse,mergeSort,3500,191747
+100-4000 step=100 reverse,mergeSort,3600,198077
+100-4000 step=100 reverse,mergeSort,3700,227798
+100-4000 step=100 reverse,mergeSort,3800,232404
+100-4000 step=100 reverse,mergeSort,3900,248558
+100-4000 step=100 reverse,mergeSort,4000,252116
+100-4000 step=100 reverse,mergeSort,4100,243081
+50-300 step=50 x = 0...5,quickSort,50,1065
+50-300 step=50 x = 0...5,quickSort,100,2547
+50-300 step=50 x = 0...5,quickSort,150,4161
+50-300 step=50 x = 0...5,quickSort,200,6002
+50-300 step=50 x = 0...5,quickSort,250,7774
+50-300 step=50 x = 0...5,quickSort,300,10908
+50-300 step=50 x = 0...4000,quickSort,50,1076
+50-300 step=50 x = 0...4000,quickSort,100,2449
+50-300 step=50 x = 0...4000,quickSort,150,3968
+50-300 step=50 x = 0...4000,quickSort,200,5612
+50-300 step=50 x = 0...4000,quickSort,250,8009
+50-300 step=50 x = 0...4000,quickSort,300,11736
+50-300 step=50 almost (+- 90% sort),quickSort,50,1844
+50-300 step=50 almost (+- 90% sort),quickSort,100,5956
+50-300 step=50 almost (+- 90% sort),quickSort,150,11464
+50-300 step=50 almost (+- 90% sort),quickSort,200,16829
+50-300 step=50 almost (+- 90% sort),quickSort,250,22648
+50-300 step=50 almost (+- 90% sort),quickSort,300,28435
+50-300 step=50 reverse,quickSort,50,2015
+50-300 step=50 reverse,quickSort,100,7401
+50-300 step=50 reverse,quickSort,150,15707
+50-300 step=50 reverse,quickSort,200,26902
+50-300 step=50 reverse,quickSort,250,40989
+50-300 step=50 reverse,quickSort,300,60693
+100-4000 step=100 x = 0...5,quickSort,100,2737
+100-4000 step=100 x = 0...5,quickSort,200,6429
+100-4000 step=100 x = 0...5,quickSort,300,10416
+100-4000 step=100 x = 0...5,quickSort,400,14698
+100-4000 step=100 x = 0...5,quickSort,500,19268
+100-4000 step=100 x = 0...5,quickSort,600,24343
+100-4000 step=100 x = 0...5,quickSort,700,28825
+100-4000 step=100 x = 0...5,quickSort,800,37979
+100-4000 step=100 x = 0...5,quickSort,900,37101
+100-4000 step=100 x = 0...5,quickSort,1000,42841
+100-4000 step=100 x = 0...5,quickSort,1100,49952
+100-4000 step=100 x = 0...5,quickSort,1200,55719
+100-4000 step=100 x = 0...5,quickSort,1300,61221
+100-4000 step=100 x = 0...5,quickSort,1400,72351
+100-4000 step=100 x = 0...5,quickSort,1500,71948
+100-4000 step=100 x = 0...5,quickSort,1600,75712
+100-4000 step=100 x = 0...5,quickSort,1700,79577
+100-4000 step=100 x = 0...5,quickSort,1800,89906
+100-4000 step=100 x = 0...5,quickSort,1900,101359
+100-4000 step=100 x = 0...5,quickSort,2000,98905
+100-4000 step=100 x = 0...5,quickSort,2100,109647
+100-4000 step=100 x = 0...5,quickSort,2200,116726
+100-4000 step=100 x = 0...5,quickSort,2300,113252
+100-4000 step=100 x = 0...5,quickSort,2400,125423
+100-4000 step=100 x = 0...5,quickSort,2500,123417
+100-4000 step=100 x = 0...5,quickSort,2600,143977
+100-4000 step=100 x = 0...5,quickSort,2700,148564
+100-4000 step=100 x = 0...5,quickSort,2800,148412
+100-4000 step=100 x = 0...5,quickSort,2900,154954
+100-4000 step=100 x = 0...5,quickSort,3000,158842
+100-4000 step=100 x = 0...5,quickSort,3100,163672
+100-4000 step=100 x = 0...5,quickSort,3200,172559
+100-4000 step=100 x = 0...5,quickSort,3300,178727
+100-4000 step=100 x = 0...5,quickSort,3400,176565
+100-4000 step=100 x = 0...5,quickSort,3500,189349
+100-4000 step=100 x = 0...5,quickSort,3600,202118
+100-4000 step=100 x = 0...5,quickSort,3700,207130
+100-4000 step=100 x = 0...5,quickSort,3800,214411
+100-4000 step=100 x = 0...5,quickSort,3900,220369
+100-4000 step=100 x = 0...5,quickSort,4000,228547
+100-4000 step=100 x = 0...5,quickSort,4100,237890
+100-4000 step=100 x = 0...4000,quickSort,100,2575
+100-4000 step=100 x = 0...4000,quickSort,200,5962
+100-4000 step=100 x = 0...4000,quickSort,300,11959
+100-4000 step=100 x = 0...4000,quickSort,400,18881
+100-4000 step=100 x = 0...4000,quickSort,500,26917
+100-4000 step=100 x = 0...4000,quickSort,600,34512
+100-4000 step=100 x = 0...4000,quickSort,700,44349
+100-4000 step=100 x = 0...4000,quickSort,800,58881
+100-4000 step=100 x = 0...4000,quickSort,900,57196
+100-4000 step=100 x = 0...4000,quickSort,1000,64092
+100-4000 step=100 x = 0...4000,quickSort,1100,73789
+100-4000 step=100 x = 0...4000,quickSort,1200,87368
+100-4000 step=100 x = 0...4000,quickSort,1300,96543
+100-4000 step=100 x = 0...4000,quickSort,1400,103905
+100-4000 step=100 x = 0...4000,quickSort,1500,115670
+100-4000 step=100 x = 0...4000,quickSort,1600,115585
+100-4000 step=100 x = 0...4000,quickSort,1700,126383
+100-4000 step=100 x = 0...4000,quickSort,1800,143436
+100-4000 step=100 x = 0...4000,quickSort,1900,155380
+100-4000 step=100 x = 0...4000,quickSort,2000,153437
+100-4000 step=100 x = 0...4000,quickSort,2100,174664
+100-4000 step=100 x = 0...4000,quickSort,2200,182333
+100-4000 step=100 x = 0...4000,quickSort,2300,180951
+100-4000 step=100 x = 0...4000,quickSort,2400,202186
+100-4000 step=100 x = 0...4000,quickSort,2500,198740
+100-4000 step=100 x = 0...4000,quickSort,2600,227253
+100-4000 step=100 x = 0...4000,quickSort,2700,223624
+100-4000 step=100 x = 0...4000,quickSort,2800,248392
+100-4000 step=100 x = 0...4000,quickSort,2900,245358
+100-4000 step=100 x = 0...4000,quickSort,3000,265645
+100-4000 step=100 x = 0...4000,quickSort,3100,280392
+100-4000 step=100 x = 0...4000,quickSort,3200,281867
+100-4000 step=100 x = 0...4000,quickSort,3300,287924
+100-4000 step=100 x = 0...4000,quickSort,3400,307710
+100-4000 step=100 x = 0...4000,quickSort,3500,310646
+100-4000 step=100 x = 0...4000,quickSort,3600,317585
+100-4000 step=100 x = 0...4000,quickSort,3700,333154
+100-4000 step=100 x = 0...4000,quickSort,3800,343570
+100-4000 step=100 x = 0...4000,quickSort,3900,355190
+100-4000 step=100 x = 0...4000,quickSort,4000,363417
+100-4000 step=100 x = 0...4000,quickSort,4100,370683
+100-4000 step=100 almost (+- 90% sort),quickSort,100,6393
+100-4000 step=100 almost (+- 90% sort),quickSort,200,18028
+100-4000 step=100 almost (+- 90% sort),quickSort,300,29788
+100-4000 step=100 almost (+- 90% sort),quickSort,400,42311
+100-4000 step=100 almost (+- 90% sort),quickSort,500,69237
+100-4000 step=100 almost (+- 90% sort),quickSort,600,49825
+100-4000 step=100 almost (+- 90% sort),quickSort,700,54413
+100-4000 step=100 almost (+- 90% sort),quickSort,800,60895
+100-4000 step=100 almost (+- 90% sort),quickSort,900,67765
+100-4000 step=100 almost (+- 90% sort),quickSort,1000,77660
+100-4000 step=100 almost (+- 90% sort),quickSort,1100,88458
+100-4000 step=100 almost (+- 90% sort),quickSort,1200,121776
+100-4000 step=100 almost (+- 90% sort),quickSort,1300,134727
+100-4000 step=100 almost (+- 90% sort),quickSort,1400,149433
+100-4000 step=100 almost (+- 90% sort),quickSort,1500,175951
+100-4000 step=100 almost (+- 90% sort),quickSort,1600,183746
+100-4000 step=100 almost (+- 90% sort),quickSort,1700,199529
+100-4000 step=100 almost (+- 90% sort),quickSort,1800,201820
+100-4000 step=100 almost (+- 90% sort),quickSort,1900,263405
+100-4000 step=100 almost (+- 90% sort),quickSort,2000,275712
+100-4000 step=100 almost (+- 90% sort),quickSort,2100,323380
+100-4000 step=100 almost (+- 90% sort),quickSort,2200,209114
+100-4000 step=100 almost (+- 90% sort),quickSort,2300,257446
+100-4000 step=100 almost (+- 90% sort),quickSort,2400,341724
+100-4000 step=100 almost (+- 90% sort),quickSort,2500,237788
+100-4000 step=100 almost (+- 90% sort),quickSort,2600,416380
+100-4000 step=100 almost (+- 90% sort),quickSort,2700,381884
+100-4000 step=100 almost (+- 90% sort),quickSort,2800,489906
+100-4000 step=100 almost (+- 90% sort),quickSort,2900,265845
+100-4000 step=100 almost (+- 90% sort),quickSort,3000,481036
+100-4000 step=100 almost (+- 90% sort),quickSort,3100,313486
+100-4000 step=100 almost (+- 90% sort),quickSort,3200,362903
+100-4000 step=100 almost (+- 90% sort),quickSort,3300,308912
+100-4000 step=100 almost (+- 90% sort),quickSort,3400,439560
+100-4000 step=100 almost (+- 90% sort),quickSort,3500,330191
+100-4000 step=100 almost (+- 90% sort),quickSort,3600,367958
+100-4000 step=100 almost (+- 90% sort),quickSort,3700,395325
+100-4000 step=100 almost (+- 90% sort),quickSort,3800,451444
+100-4000 step=100 almost (+- 90% sort),quickSort,3900,408748
+100-4000 step=100 almost (+- 90% sort),quickSort,4000,555974
+100-4000 step=100 almost (+- 90% sort),quickSort,4100,727264
+100-4000 step=100 reverse,quickSort,100,7959
+100-4000 step=100 reverse,quickSort,200,28846
+100-4000 step=100 reverse,quickSort,300,62194
+100-4000 step=100 reverse,quickSort,400,111885
+100-4000 step=100 reverse,quickSort,500,167068
+100-4000 step=100 reverse,quickSort,600,242542
+100-4000 step=100 reverse,quickSort,700,326189
+100-4000 step=100 reverse,quickSort,800,424417
+100-4000 step=100 reverse,quickSort,900,564920
+100-4000 step=100 reverse,quickSort,1000,611220
+100-4000 step=100 reverse,quickSort,1100,754878
+100-4000 step=100 reverse,quickSort,1200,888223
+100-4000 step=100 reverse,quickSort,1300,1088917
+100-4000 step=100 reverse,quickSort,1400,1268614
+100-4000 step=100 reverse,quickSort,1500,1439917
+100-4000 step=100 reverse,quickSort,1600,1653644
+100-4000 step=100 reverse,quickSort,1700,1808391
+100-4000 step=100 reverse,quickSort,1800,2040250
+100-4000 step=100 reverse,quickSort,1900,2359714
+100-4000 step=100 reverse,quickSort,2000,2662430
+100-4000 step=100 reverse,quickSort,2100,2833018
+100-4000 step=100 reverse,quickSort,2200,3179037
+100-4000 step=100 reverse,quickSort,2300,3414397
+100-4000 step=100 reverse,quickSort,2400,3624891
+100-4000 step=100 reverse,quickSort,2500,4014264
+100-4000 step=100 reverse,quickSort,2600,4219380
+100-4000 step=100 reverse,quickSort,2700,4733764
+100-4000 step=100 reverse,quickSort,2800,4995606
+100-4000 step=100 reverse,quickSort,2900,5300677
+100-4000 step=100 reverse,quickSort,3000,5803743
+100-4000 step=100 reverse,quickSort,3100,6023294
+100-4000 step=100 reverse,quickSort,3200,6523402
+100-4000 step=100 reverse,quickSort,3300,7161968
+100-4000 step=100 reverse,quickSort,3400,7425536
+100-4000 step=100 reverse,quickSort,3500,7679711
+100-4000 step=100 reverse,quickSort,3600,8176296
+100-4000 step=100 reverse,quickSort,3700,8663350
+100-4000 step=100 reverse,quickSort,3800,9134830
+100-4000 step=100 reverse,quickSort,3900,9724885
+100-4000 step=100 reverse,quickSort,4000,10548759
+100-4000 step=100 reverse,quickSort,4100,10674854
+50-300 step=50 x = 0...5,heapSort,50,12193
+50-300 step=50 x = 0...5,heapSort,100,24987
+50-300 step=50 x = 0...5,heapSort,150,41471
+50-300 step=50 x = 0...5,heapSort,200,60704
+50-300 step=50 x = 0...5,heapSort,250,66182
+50-300 step=50 x = 0...5,heapSort,300,87911
+50-300 step=50 x = 0...4000,heapSort,50,15260
+50-300 step=50 x = 0...4000,heapSort,100,26653
+50-300 step=50 x = 0...4000,heapSort,150,42092
+50-300 step=50 x = 0...4000,heapSort,200,57101
+50-300 step=50 x = 0...4000,heapSort,250,72690
+50-300 step=50 x = 0...4000,heapSort,300,90766
+50-300 step=50 almost (+- 90% sort),heapSort,50,11912
+50-300 step=50 almost (+- 90% sort),heapSort,100,24394
+50-300 step=50 almost (+- 90% sort),heapSort,150,38097
+50-300 step=50 almost (+- 90% sort),heapSort,200,51116
+50-300 step=50 almost (+- 90% sort),heapSort,250,64459
+50-300 step=50 almost (+- 90% sort),heapSort,300,81267
+50-300 step=50 reverse,heapSort,50,14743
+50-300 step=50 reverse,heapSort,100,31419
+50-300 step=50 reverse,heapSort,150,52064
+50-300 step=50 reverse,heapSort,200,72894
+50-300 step=50 reverse,heapSort,250,87786
+50-300 step=50 reverse,heapSort,300,109538
+100-4000 step=100 x = 0...5,heapSort,100,25201
+100-4000 step=100 x = 0...5,heapSort,200,52585
+100-4000 step=100 x = 0...5,heapSort,300,87984
+100-4000 step=100 x = 0...5,heapSort,400,117048
+100-4000 step=100 x = 0...5,heapSort,500,132297
+100-4000 step=100 x = 0...5,heapSort,600,173780
+100-4000 step=100 x = 0...5,heapSort,700,200201
+100-4000 step=100 x = 0...5,heapSort,800,222802
+100-4000 step=100 x = 0...5,heapSort,900,256185
+100-4000 step=100 x = 0...5,heapSort,1000,296274
+100-4000 step=100 x = 0...5,heapSort,1100,341190
+100-4000 step=100 x = 0...5,heapSort,1200,384690
+100-4000 step=100 x = 0...5,heapSort,1300,410479
+100-4000 step=100 x = 0...5,heapSort,1400,423466
+100-4000 step=100 x = 0...5,heapSort,1500,453833
+100-4000 step=100 x = 0...5,heapSort,1600,491734
+100-4000 step=100 x = 0...5,heapSort,1700,529074
+100-4000 step=100 x = 0...5,heapSort,1800,544034
+100-4000 step=100 x = 0...5,heapSort,1900,586567
+100-4000 step=100 x = 0...5,heapSort,2000,612767
+100-4000 step=100 x = 0...5,heapSort,2100,651600
+100-4000 step=100 x = 0...5,heapSort,2200,693922
+100-4000 step=100 x = 0...5,heapSort,2300,732537
+100-4000 step=100 x = 0...5,heapSort,2400,755426
+100-4000 step=100 x = 0...5,heapSort,2500,794977
+100-4000 step=100 x = 0...5,heapSort,2600,836379
+100-4000 step=100 x = 0...5,heapSort,2700,838669
+100-4000 step=100 x = 0...5,heapSort,2800,901710
+100-4000 step=100 x = 0...5,heapSort,2900,921085
+100-4000 step=100 x = 0...5,heapSort,3000,972531
+100-4000 step=100 x = 0...5,heapSort,3100,1022424
+100-4000 step=100 x = 0...5,heapSort,3200,1041834
+100-4000 step=100 x = 0...5,heapSort,3300,1116406
+100-4000 step=100 x = 0...5,heapSort,3400,1105465
+100-4000 step=100 x = 0...5,heapSort,3500,1133521
+100-4000 step=100 x = 0...5,heapSort,3600,1184062
+100-4000 step=100 x = 0...5,heapSort,3700,1186421
+100-4000 step=100 x = 0...5,heapSort,3800,1242008
+100-4000 step=100 x = 0...5,heapSort,3900,1295460
+100-4000 step=100 x = 0...5,heapSort,4000,1308413
+100-4000 step=100 x = 0...5,heapSort,4100,1380061
+100-4000 step=100 x = 0...4000,heapSort,100,26706
+100-4000 step=100 x = 0...4000,heapSort,200,57881
+100-4000 step=100 x = 0...4000,heapSort,300,90603
+100-4000 step=100 x = 0...4000,heapSort,400,125073
+100-4000 step=100 x = 0...4000,heapSort,500,204580
+100-4000 step=100 x = 0...4000,heapSort,600,185850
+100-4000 step=100 x = 0...4000,heapSort,700,220586
+100-4000 step=100 x = 0...4000,heapSort,800,256625
+100-4000 step=100 x = 0...4000,heapSort,900,291278
+100-4000 step=100 x = 0...4000,heapSort,1000,338896
+100-4000 step=100 x = 0...4000,heapSort,1100,392545
+100-4000 step=100 x = 0...4000,heapSort,1200,444564
+100-4000 step=100 x = 0...4000,heapSort,1300,498675
+100-4000 step=100 x = 0...4000,heapSort,1400,518058
+100-4000 step=100 x = 0...4000,heapSort,1500,524464
+100-4000 step=100 x = 0...4000,heapSort,1600,582917
+100-4000 step=100 x = 0...4000,heapSort,1700,614380
+100-4000 step=100 x = 0...4000,heapSort,1800,638463
+100-4000 step=100 x = 0...4000,heapSort,1900,680792
+100-4000 step=100 x = 0...4000,heapSort,2000,731341
+100-4000 step=100 x = 0...4000,heapSort,2100,808691
+100-4000 step=100 x = 0...4000,heapSort,2200,807331
+100-4000 step=100 x = 0...4000,heapSort,2300,867660
+100-4000 step=100 x = 0...4000,heapSort,2400,929417
+100-4000 step=100 x = 0...4000,heapSort,2500,924544
+100-4000 step=100 x = 0...4000,heapSort,2600,985324
+100-4000 step=100 x = 0...4000,heapSort,2700,954772
+100-4000 step=100 x = 0...4000,heapSort,2800,1057100
+100-4000 step=100 x = 0...4000,heapSort,2900,1137676
+100-4000 step=100 x = 0...4000,heapSort,3000,1131590
+100-4000 step=100 x = 0...4000,heapSort,3100,1193076
+100-4000 step=100 x = 0...4000,heapSort,3200,1190944
+100-4000 step=100 x = 0...4000,heapSort,3300,1274004
+100-4000 step=100 x = 0...4000,heapSort,3400,1292459
+100-4000 step=100 x = 0...4000,heapSort,3500,1367452
+100-4000 step=100 x = 0...4000,heapSort,3600,1381612
+100-4000 step=100 x = 0...4000,heapSort,3700,1437478
+100-4000 step=100 x = 0...4000,heapSort,3800,1483778
+100-4000 step=100 x = 0...4000,heapSort,3900,1485767
+100-4000 step=100 x = 0...4000,heapSort,4000,1584047
+100-4000 step=100 x = 0...4000,heapSort,4100,1619616
+100-4000 step=100 almost (+- 90% sort),heapSort,100,24386
+100-4000 step=100 almost (+- 90% sort),heapSort,200,52335
+100-4000 step=100 almost (+- 90% sort),heapSort,300,82430
+100-4000 step=100 almost (+- 90% sort),heapSort,400,109045
+100-4000 step=100 almost (+- 90% sort),heapSort,500,137926
+100-4000 step=100 almost (+- 90% sort),heapSort,600,162015
+100-4000 step=100 almost (+- 90% sort),heapSort,700,194710
+100-4000 step=100 almost (+- 90% sort),heapSort,800,225922
+100-4000 step=100 almost (+- 90% sort),heapSort,900,257066
+100-4000 step=100 almost (+- 90% sort),heapSort,1000,295258
+100-4000 step=100 almost (+- 90% sort),heapSort,1100,346843
+100-4000 step=100 almost (+- 90% sort),heapSort,1200,376766
+100-4000 step=100 almost (+- 90% sort),heapSort,1300,419316
+100-4000 step=100 almost (+- 90% sort),heapSort,1400,453268
+100-4000 step=100 almost (+- 90% sort),heapSort,1500,463206
+100-4000 step=100 almost (+- 90% sort),heapSort,1600,505461
+100-4000 step=100 almost (+- 90% sort),heapSort,1700,538745
+100-4000 step=100 almost (+- 90% sort),heapSort,1800,564277
+100-4000 step=100 almost (+- 90% sort),heapSort,1900,594965
+100-4000 step=100 almost (+- 90% sort),heapSort,2000,644429
+100-4000 step=100 almost (+- 90% sort),heapSort,2100,699928
+100-4000 step=100 almost (+- 90% sort),heapSort,2200,710614
+100-4000 step=100 almost (+- 90% sort),heapSort,2300,763769
+100-4000 step=100 almost (+- 90% sort),heapSort,2400,795696
+100-4000 step=100 almost (+- 90% sort),heapSort,2500,799667
+100-4000 step=100 almost (+- 90% sort),heapSort,2600,871164
+100-4000 step=100 almost (+- 90% sort),heapSort,2700,871337
+100-4000 step=100 almost (+- 90% sort),heapSort,2800,910640
+100-4000 step=100 almost (+- 90% sort),heapSort,2900,965983
+100-4000 step=100 almost (+- 90% sort),heapSort,3000,974853
+100-4000 step=100 almost (+- 90% sort),heapSort,3100,1046942
+100-4000 step=100 almost (+- 90% sort),heapSort,3200,1045741
+100-4000 step=100 almost (+- 90% sort),heapSort,3300,1107846
+100-4000 step=100 almost (+- 90% sort),heapSort,3400,1102333
+100-4000 step=100 almost (+- 90% sort),heapSort,3500,1185258
+100-4000 step=100 almost (+- 90% sort),heapSort,3600,1175856
+100-4000 step=100 almost (+- 90% sort),heapSort,3700,1255943
+100-4000 step=100 almost (+- 90% sort),heapSort,3800,1279609
+100-4000 step=100 almost (+- 90% sort),heapSort,3900,1338441
+100-4000 step=100 almost (+- 90% sort),heapSort,4000,1404503
+100-4000 step=100 almost (+- 90% sort),heapSort,4100,1392896
+100-4000 step=100 reverse,heapSort,100,35110
+100-4000 step=100 reverse,heapSort,200,68553
+100-4000 step=100 reverse,heapSort,300,112595
+100-4000 step=100 reverse,heapSort,400,153779
+100-4000 step=100 reverse,heapSort,500,189583
+100-4000 step=100 reverse,heapSort,600,231133
+100-4000 step=100 reverse,heapSort,700,273777
+100-4000 step=100 reverse,heapSort,800,327472
+100-4000 step=100 reverse,heapSort,900,360988
+100-4000 step=100 reverse,heapSort,1000,413852
+100-4000 step=100 reverse,heapSort,1100,472864
+100-4000 step=100 reverse,heapSort,1200,533908
+100-4000 step=100 reverse,heapSort,1300,599321
+100-4000 step=100 reverse,heapSort,1400,644043
+100-4000 step=100 reverse,heapSort,1500,660773
+100-4000 step=100 reverse,heapSort,1600,714377
+100-4000 step=100 reverse,heapSort,1700,773467
+100-4000 step=100 reverse,heapSort,1800,848262
+100-4000 step=100 reverse,heapSort,1900,844689
+100-4000 step=100 reverse,heapSort,2000,913920
+100-4000 step=100 reverse,heapSort,2100,979748
+100-4000 step=100 reverse,heapSort,2200,1002370
+100-4000 step=100 reverse,heapSort,2300,1077982
+100-4000 step=100 reverse,heapSort,2400,1129368
+100-4000 step=100 reverse,heapSort,2500,1160602
+100-4000 step=100 reverse,heapSort,2600,1237774
+100-4000 step=100 reverse,heapSort,2700,1304536
+100-4000 step=100 reverse,heapSort,2800,1284078
+100-4000 step=100 reverse,heapSort,2900,1374552
+100-4000 step=100 reverse,heapSort,3000,1415630
+100-4000 step=100 reverse,heapSort,3100,1502342
+100-4000 step=100 reverse,heapSort,3200,1489453
+100-4000 step=100 reverse,heapSort,3300,1610608
+100-4000 step=100 reverse,heapSort,3400,1606749
+100-4000 step=100 reverse,heapSort,3500,1721225
+100-4000 step=100 reverse,heapSort,3600,1662255
+100-4000 step=100 reverse,heapSort,3700,1799065
+100-4000 step=100 reverse,heapSort,3800,1802133
+100-4000 step=100 reverse,heapSort,3900,1913759
+100-4000 step=100 reverse,heapSort,4000,2018027
+100-4000 step=100 reverse,heapSort,4100,2047443
+50-300 step=50 x = 0...5,shellSoortCiura,50,895
+50-300 step=50 x = 0...5,shellSoortCiura,100,2197
+50-300 step=50 x = 0...5,shellSoortCiura,150,5572
+50-300 step=50 x = 0...5,shellSoortCiura,200,5706
+50-300 step=50 x = 0...5,shellSoortCiura,250,8452
+50-300 step=50 x = 0...5,shellSoortCiura,300,11756
+50-300 step=50 x = 0...4000,shellSoortCiura,50,1498
+50-300 step=50 x = 0...4000,shellSoortCiura,100,4509
+50-300 step=50 x = 0...4000,shellSoortCiura,150,9547
+50-300 step=50 x = 0...4000,shellSoortCiura,200,14871
+50-300 step=50 x = 0...4000,shellSoortCiura,250,20034
+50-300 step=50 x = 0...4000,shellSoortCiura,300,25458
+50-300 step=50 almost (+- 90% sort),shellSoortCiura,50,878
+50-300 step=50 almost (+- 90% sort),shellSoortCiura,100,2320
+50-300 step=50 almost (+- 90% sort),shellSoortCiura,150,3576
+50-300 step=50 almost (+- 90% sort),shellSoortCiura,200,5742
+50-300 step=50 almost (+- 90% sort),shellSoortCiura,250,7986
+50-300 step=50 almost (+- 90% sort),shellSoortCiura,300,10896
+50-300 step=50 reverse,shellSoortCiura,50,1379
+50-300 step=50 reverse,shellSoortCiura,100,3026
+50-300 step=50 reverse,shellSoortCiura,150,4761
+50-300 step=50 reverse,shellSoortCiura,200,7236
+50-300 step=50 reverse,shellSoortCiura,250,8448
+50-300 step=50 reverse,shellSoortCiura,300,10218
+100-4000 step=100 x = 0...5,shellSoortCiura,100,2232
+100-4000 step=100 x = 0...5,shellSoortCiura,200,5866
+100-4000 step=100 x = 0...5,shellSoortCiura,300,10030
+100-4000 step=100 x = 0...5,shellSoortCiura,400,15728
+100-4000 step=100 x = 0...5,shellSoortCiura,500,19879
+100-4000 step=100 x = 0...5,shellSoortCiura,600,26802
+100-4000 step=100 x = 0...5,shellSoortCiura,700,29102
+100-4000 step=100 x = 0...5,shellSoortCiura,800,36466
+100-4000 step=100 x = 0...5,shellSoortCiura,900,40517
+100-4000 step=100 x = 0...5,shellSoortCiura,1000,47006
+100-4000 step=100 x = 0...5,shellSoortCiura,1100,52421
+100-4000 step=100 x = 0...5,shellSoortCiura,1200,56997
+100-4000 step=100 x = 0...5,shellSoortCiura,1300,63711
+100-4000 step=100 x = 0...5,shellSoortCiura,1400,68196
+100-4000 step=100 x = 0...5,shellSoortCiura,1500,73388
+100-4000 step=100 x = 0...5,shellSoortCiura,1600,80398
+100-4000 step=100 x = 0...5,shellSoortCiura,1700,85879
+100-4000 step=100 x = 0...5,shellSoortCiura,1800,91569
+100-4000 step=100 x = 0...5,shellSoortCiura,1900,92244
+100-4000 step=100 x = 0...5,shellSoortCiura,2000,94548
+100-4000 step=100 x = 0...5,shellSoortCiura,2100,112719
+100-4000 step=100 x = 0...5,shellSoortCiura,2200,109437
+100-4000 step=100 x = 0...5,shellSoortCiura,2300,114088
+100-4000 step=100 x = 0...5,shellSoortCiura,2400,128763
+100-4000 step=100 x = 0...5,shellSoortCiura,2500,114624
+100-4000 step=100 x = 0...5,shellSoortCiura,2600,127994
+100-4000 step=100 x = 0...5,shellSoortCiura,2700,134455
+100-4000 step=100 x = 0...5,shellSoortCiura,2800,141599
+100-4000 step=100 x = 0...5,shellSoortCiura,2900,147449
+100-4000 step=100 x = 0...5,shellSoortCiura,3000,156528
+100-4000 step=100 x = 0...5,shellSoortCiura,3100,165413
+100-4000 step=100 x = 0...5,shellSoortCiura,3200,171408
+100-4000 step=100 x = 0...5,shellSoortCiura,3300,179451
+100-4000 step=100 x = 0...5,shellSoortCiura,3400,175220
+100-4000 step=100 x = 0...5,shellSoortCiura,3500,226039
+100-4000 step=100 x = 0...5,shellSoortCiura,3600,181945
+100-4000 step=100 x = 0...5,shellSoortCiura,3700,196562
+100-4000 step=100 x = 0...5,shellSoortCiura,3800,201607
+100-4000 step=100 x = 0...5,shellSoortCiura,3900,213563
+100-4000 step=100 x = 0...5,shellSoortCiura,4000,215016
+100-4000 step=100 x = 0...5,shellSoortCiura,4100,222120
+100-4000 step=100 x = 0...4000,shellSoortCiura,100,4567
+100-4000 step=100 x = 0...4000,shellSoortCiura,200,15413
+100-4000 step=100 x = 0...4000,shellSoortCiura,300,25461
+100-4000 step=100 x = 0...4000,shellSoortCiura,400,40868
+100-4000 step=100 x = 0...4000,shellSoortCiura,500,51493
+100-4000 step=100 x = 0...4000,shellSoortCiura,600,65417
+100-4000 step=100 x = 0...4000,shellSoortCiura,700,74929
+100-4000 step=100 x = 0...4000,shellSoortCiura,800,94898
+100-4000 step=100 x = 0...4000,shellSoortCiura,900,110106
+100-4000 step=100 x = 0...4000,shellSoortCiura,1000,125689
+100-4000 step=100 x = 0...4000,shellSoortCiura,1100,139698
+100-4000 step=100 x = 0...4000,shellSoortCiura,1200,157658
+100-4000 step=100 x = 0...4000,shellSoortCiura,1300,173634
+100-4000 step=100 x = 0...4000,shellSoortCiura,1400,189575
+100-4000 step=100 x = 0...4000,shellSoortCiura,1500,207934
+100-4000 step=100 x = 0...4000,shellSoortCiura,1600,221307
+100-4000 step=100 x = 0...4000,shellSoortCiura,1700,233437
+100-4000 step=100 x = 0...4000,shellSoortCiura,1800,254002
+100-4000 step=100 x = 0...4000,shellSoortCiura,1900,273139
+100-4000 step=100 x = 0...4000,shellSoortCiura,2000,295569
+100-4000 step=100 x = 0...4000,shellSoortCiura,2100,314640
+100-4000 step=100 x = 0...4000,shellSoortCiura,2200,332534
+100-4000 step=100 x = 0...4000,shellSoortCiura,2300,353722
+100-4000 step=100 x = 0...4000,shellSoortCiura,2400,355851
+100-4000 step=100 x = 0...4000,shellSoortCiura,2500,377802
+100-4000 step=100 x = 0...4000,shellSoortCiura,2600,443275
+100-4000 step=100 x = 0...4000,shellSoortCiura,2700,409635
+100-4000 step=100 x = 0...4000,shellSoortCiura,2800,428642
+100-4000 step=100 x = 0...4000,shellSoortCiura,2900,446307
+100-4000 step=100 x = 0...4000,shellSoortCiura,3000,471820
+100-4000 step=100 x = 0...4000,shellSoortCiura,3100,488541
+100-4000 step=100 x = 0...4000,shellSoortCiura,3200,515139
+100-4000 step=100 x = 0...4000,shellSoortCiura,3300,540788
+100-4000 step=100 x = 0...4000,shellSoortCiura,3400,554737
+100-4000 step=100 x = 0...4000,shellSoortCiura,3500,558053
+100-4000 step=100 x = 0...4000,shellSoortCiura,3600,546932
+100-4000 step=100 x = 0...4000,shellSoortCiura,3700,568235
+100-4000 step=100 x = 0...4000,shellSoortCiura,3800,610355
+100-4000 step=100 x = 0...4000,shellSoortCiura,3900,629334
+100-4000 step=100 x = 0...4000,shellSoortCiura,4000,662865
+100-4000 step=100 x = 0...4000,shellSoortCiura,4100,673412
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,100,2233
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,200,5644
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,300,10930
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,400,16441
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,500,28250
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,600,30905
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,700,36645
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,800,76224
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,900,56920
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,1000,64705
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,1100,74840
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,1200,84265
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,1300,93009
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,1400,101217
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,1500,108848
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,1600,118198
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,1700,129894
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,1800,139880
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,1900,147945
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,2000,158321
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,2100,166975
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,2200,184015
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,2300,196875
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,2400,199609
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,2500,209926
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,2600,211417
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,2700,224150
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,2800,232282
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,2900,244035
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,3000,253737
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,3100,265903
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,3200,282124
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,3300,298483
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,3400,307776
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,3500,312589
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,3600,301475
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,3700,309811
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,3800,328568
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,3900,336882
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,4000,361820
+100-4000 step=100 almost (+- 90% sort),shellSoortCiura,4100,369875
+100-4000 step=100 reverse,shellSoortCiura,100,2967
+100-4000 step=100 reverse,shellSoortCiura,200,6534
+100-4000 step=100 reverse,shellSoortCiura,300,10560
+100-4000 step=100 reverse,shellSoortCiura,400,13517
+100-4000 step=100 reverse,shellSoortCiura,500,19232
+100-4000 step=100 reverse,shellSoortCiura,600,22941
+100-4000 step=100 reverse,shellSoortCiura,700,25891
+100-4000 step=100 reverse,shellSoortCiura,800,43449
+100-4000 step=100 reverse,shellSoortCiura,900,37326
+100-4000 step=100 reverse,shellSoortCiura,1000,41001
+100-4000 step=100 reverse,shellSoortCiura,1100,44715
+100-4000 step=100 reverse,shellSoortCiura,1200,48708
+100-4000 step=100 reverse,shellSoortCiura,1300,60242
+100-4000 step=100 reverse,shellSoortCiura,1400,61238
+100-4000 step=100 reverse,shellSoortCiura,1500,65389
+100-4000 step=100 reverse,shellSoortCiura,1600,66596
+100-4000 step=100 reverse,shellSoortCiura,1700,78379
+100-4000 step=100 reverse,shellSoortCiura,1800,82969
+100-4000 step=100 reverse,shellSoortCiura,1900,80710
+100-4000 step=100 reverse,shellSoortCiura,2000,95011
+100-4000 step=100 reverse,shellSoortCiura,2100,100417
+100-4000 step=100 reverse,shellSoortCiura,2200,103992
+100-4000 step=100 reverse,shellSoortCiura,2300,104762
+100-4000 step=100 reverse,shellSoortCiura,2400,115565
+100-4000 step=100 reverse,shellSoortCiura,2500,112276
+100-4000 step=100 reverse,shellSoortCiura,2600,118138
+100-4000 step=100 reverse,shellSoortCiura,2700,122622
+100-4000 step=100 reverse,shellSoortCiura,2800,130343
+100-4000 step=100 reverse,shellSoortCiura,2900,133359
+100-4000 step=100 reverse,shellSoortCiura,3000,142767
+100-4000 step=100 reverse,shellSoortCiura,3100,159461
+100-4000 step=100 reverse,shellSoortCiura,3200,157498
+100-4000 step=100 reverse,shellSoortCiura,3300,174566
+100-4000 step=100 reverse,shellSoortCiura,3400,166954
+100-4000 step=100 reverse,shellSoortCiura,3500,181824
+100-4000 step=100 reverse,shellSoortCiura,3600,170248
+100-4000 step=100 reverse,shellSoortCiura,3700,179498
+100-4000 step=100 reverse,shellSoortCiura,3800,188069
+100-4000 step=100 reverse,shellSoortCiura,3900,197647
+100-4000 step=100 reverse,shellSoortCiura,4000,203032
+100-4000 step=100 reverse,shellSoortCiura,4100,210396
+50-300 step=50 x = 0...5,shellSoortShell,50,1123
+50-300 step=50 x = 0...5,shellSoortShell,100,2941
+50-300 step=50 x = 0...5,shellSoortShell,150,5168
+50-300 step=50 x = 0...5,shellSoortShell,200,6469
+50-300 step=50 x = 0...5,shellSoortShell,250,11573
+50-300 step=50 x = 0...5,shellSoortShell,300,12884
+50-300 step=50 x = 0...4000,shellSoortShell,50,1993
+50-300 step=50 x = 0...4000,shellSoortShell,100,5635
+50-300 step=50 x = 0...4000,shellSoortShell,150,9940
+50-300 step=50 x = 0...4000,shellSoortShell,200,15519
+50-300 step=50 x = 0...4000,shellSoortShell,250,23029
+50-300 step=50 x = 0...4000,shellSoortShell,300,27873
+50-300 step=50 almost (+- 90% sort),shellSoortShell,50,989
+50-300 step=50 almost (+- 90% sort),shellSoortShell,100,2323
+50-300 step=50 almost (+- 90% sort),shellSoortShell,150,4144
+50-300 step=50 almost (+- 90% sort),shellSoortShell,200,5558
+50-300 step=50 almost (+- 90% sort),shellSoortShell,250,8606
+50-300 step=50 almost (+- 90% sort),shellSoortShell,300,11907
+50-300 step=50 reverse,shellSoortShell,50,1282
+50-300 step=50 reverse,shellSoortShell,100,3106
+50-300 step=50 reverse,shellSoortShell,150,5246
+50-300 step=50 reverse,shellSoortShell,200,7041
+50-300 step=50 reverse,shellSoortShell,250,13554
+50-300 step=50 reverse,shellSoortShell,300,12102
+100-4000 step=100 x = 0...5,shellSoortShell,100,3114
+100-4000 step=100 x = 0...5,shellSoortShell,200,6865
+100-4000 step=100 x = 0...5,shellSoortShell,300,13672
+100-4000 step=100 x = 0...5,shellSoortShell,400,19634
+100-4000 step=100 x = 0...5,shellSoortShell,500,21211
+100-4000 step=100 x = 0...5,shellSoortShell,600,31129
+100-4000 step=100 x = 0...5,shellSoortShell,700,33856
+100-4000 step=100 x = 0...5,shellSoortShell,800,53431
+100-4000 step=100 x = 0...5,shellSoortShell,900,55903
+100-4000 step=100 x = 0...5,shellSoortShell,1000,52976
+100-4000 step=100 x = 0...5,shellSoortShell,1100,67834
+100-4000 step=100 x = 0...5,shellSoortShell,1200,76835
+100-4000 step=100 x = 0...5,shellSoortShell,1300,74998
+100-4000 step=100 x = 0...5,shellSoortShell,1400,82438
+100-4000 step=100 x = 0...5,shellSoortShell,1500,81739
+100-4000 step=100 x = 0...5,shellSoortShell,1600,110753
+100-4000 step=100 x = 0...5,shellSoortShell,1700,109295
+100-4000 step=100 x = 0...5,shellSoortShell,1800,118250
+100-4000 step=100 x = 0...5,shellSoortShell,1900,125026
+100-4000 step=100 x = 0...5,shellSoortShell,2000,122475
+100-4000 step=100 x = 0...5,shellSoortShell,2100,136213
+100-4000 step=100 x = 0...5,shellSoortShell,2200,130324
+100-4000 step=100 x = 0...5,shellSoortShell,2300,131372
+100-4000 step=100 x = 0...5,shellSoortShell,2400,168686
+100-4000 step=100 x = 0...5,shellSoortShell,2500,162053
+100-4000 step=100 x = 0...5,shellSoortShell,2600,170679
+100-4000 step=100 x = 0...5,shellSoortShell,2700,159115
+100-4000 step=100 x = 0...5,shellSoortShell,2800,209013
+100-4000 step=100 x = 0...5,shellSoortShell,2900,167819
+100-4000 step=100 x = 0...5,shellSoortShell,3000,171011
+100-4000 step=100 x = 0...5,shellSoortShell,3100,193637
+100-4000 step=100 x = 0...5,shellSoortShell,3200,248240
+100-4000 step=100 x = 0...5,shellSoortShell,3300,204505
+100-4000 step=100 x = 0...5,shellSoortShell,3400,225351
+100-4000 step=100 x = 0...5,shellSoortShell,3500,225632
+100-4000 step=100 x = 0...5,shellSoortShell,3600,245472
+100-4000 step=100 x = 0...5,shellSoortShell,3700,212590
+100-4000 step=100 x = 0...5,shellSoortShell,3800,233316
+100-4000 step=100 x = 0...5,shellSoortShell,3900,235132
+100-4000 step=100 x = 0...5,shellSoortShell,4000,281579
+100-4000 step=100 x = 0...5,shellSoortShell,4100,319561
+100-4000 step=100 x = 0...4000,shellSoortShell,100,6097
+100-4000 step=100 x = 0...4000,shellSoortShell,200,16666
+100-4000 step=100 x = 0...4000,shellSoortShell,300,27684
+100-4000 step=100 x = 0...4000,shellSoortShell,400,44557
+100-4000 step=100 x = 0...4000,shellSoortShell,500,64128
+100-4000 step=100 x = 0...4000,shellSoortShell,600,71558
+100-4000 step=100 x = 0...4000,shellSoortShell,700,88373
+100-4000 step=100 x = 0...4000,shellSoortShell,800,113730
+100-4000 step=100 x = 0...4000,shellSoortShell,900,136848
+100-4000 step=100 x = 0...4000,shellSoortShell,1000,143727
+100-4000 step=100 x = 0...4000,shellSoortShell,1100,156147
+100-4000 step=100 x = 0...4000,shellSoortShell,1200,173391
+100-4000 step=100 x = 0...4000,shellSoortShell,1300,206316
+100-4000 step=100 x = 0...4000,shellSoortShell,1400,222134
+100-4000 step=100 x = 0...4000,shellSoortShell,1500,231605
+100-4000 step=100 x = 0...4000,shellSoortShell,1600,280647
+100-4000 step=100 x = 0...4000,shellSoortShell,1700,277613
+100-4000 step=100 x = 0...4000,shellSoortShell,1800,314675
+100-4000 step=100 x = 0...4000,shellSoortShell,1900,307375
+100-4000 step=100 x = 0...4000,shellSoortShell,2000,345587
+100-4000 step=100 x = 0...4000,shellSoortShell,2100,358070
+100-4000 step=100 x = 0...4000,shellSoortShell,2200,355843
+100-4000 step=100 x = 0...4000,shellSoortShell,2300,391624
+100-4000 step=100 x = 0...4000,shellSoortShell,2400,417918
+100-4000 step=100 x = 0...4000,shellSoortShell,2500,437463
+100-4000 step=100 x = 0...4000,shellSoortShell,2600,469730
+100-4000 step=100 x = 0...4000,shellSoortShell,2700,470614
+100-4000 step=100 x = 0...4000,shellSoortShell,2800,526080
+100-4000 step=100 x = 0...4000,shellSoortShell,2900,480556
+100-4000 step=100 x = 0...4000,shellSoortShell,3000,515040
+100-4000 step=100 x = 0...4000,shellSoortShell,3100,641688
+100-4000 step=100 x = 0...4000,shellSoortShell,3200,651204
+100-4000 step=100 x = 0...4000,shellSoortShell,3300,604366
+100-4000 step=100 x = 0...4000,shellSoortShell,3400,606039
+100-4000 step=100 x = 0...4000,shellSoortShell,3500,654746
+100-4000 step=100 x = 0...4000,shellSoortShell,3600,721764
+100-4000 step=100 x = 0...4000,shellSoortShell,3700,639902
+100-4000 step=100 x = 0...4000,shellSoortShell,3800,677384
+100-4000 step=100 x = 0...4000,shellSoortShell,3900,697887
+100-4000 step=100 x = 0...4000,shellSoortShell,4000,774922
+100-4000 step=100 x = 0...4000,shellSoortShell,4100,1180949
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,100,2412
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,200,6064
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,300,12398
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,400,16193
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,500,28163
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,600,35074
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,700,43834
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,800,46674
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,900,54606
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,1000,73846
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,1100,70599
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,1200,88623
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,1300,99858
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,1400,115561
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,1500,127320
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,1600,115885
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,1700,133516
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,1800,140833
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,1900,168604
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,2000,164223
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,2100,200978
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,2200,174786
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,2300,196247
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,2400,192565
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,2500,203124
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,2600,227615
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,2700,234514
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,2800,248535
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,2900,260810
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,3000,267203
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,3100,299733
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,3200,235421
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,3300,315641
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,3400,318657
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,3500,353296
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,3600,308910
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,3700,339569
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,3800,362855
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,3900,362903
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,4000,379010
+100-4000 step=100 almost (+- 90% sort),shellSoortShell,4100,357920
+100-4000 step=100 reverse,shellSoortShell,100,3276
+100-4000 step=100 reverse,shellSoortShell,200,7644
+100-4000 step=100 reverse,shellSoortShell,300,12720
+100-4000 step=100 reverse,shellSoortShell,400,17420
+100-4000 step=100 reverse,shellSoortShell,500,23996
+100-4000 step=100 reverse,shellSoortShell,600,28820
+100-4000 step=100 reverse,shellSoortShell,700,38026
+100-4000 step=100 reverse,shellSoortShell,800,39578
+100-4000 step=100 reverse,shellSoortShell,900,48487
+100-4000 step=100 reverse,shellSoortShell,1000,54494
+100-4000 step=100 reverse,shellSoortShell,1100,57815
+100-4000 step=100 reverse,shellSoortShell,1200,65742
+100-4000 step=100 reverse,shellSoortShell,1300,72449
+100-4000 step=100 reverse,shellSoortShell,1400,79781
+100-4000 step=100 reverse,shellSoortShell,1500,84906
+100-4000 step=100 reverse,shellSoortShell,1600,91892
+100-4000 step=100 reverse,shellSoortShell,1700,95863
+100-4000 step=100 reverse,shellSoortShell,1800,103288
+100-4000 step=100 reverse,shellSoortShell,1900,109990
+100-4000 step=100 reverse,shellSoortShell,2000,123233
+100-4000 step=100 reverse,shellSoortShell,2100,121058
+100-4000 step=100 reverse,shellSoortShell,2200,152739
+100-4000 step=100 reverse,shellSoortShell,2300,148680
+100-4000 step=100 reverse,shellSoortShell,2400,141708
+100-4000 step=100 reverse,shellSoortShell,2500,154231
+100-4000 step=100 reverse,shellSoortShell,2600,163628
+100-4000 step=100 reverse,shellSoortShell,2700,166283
+100-4000 step=100 reverse,shellSoortShell,2800,175075
+100-4000 step=100 reverse,shellSoortShell,2900,168305
+100-4000 step=100 reverse,shellSoortShell,3000,178241
+100-4000 step=100 reverse,shellSoortShell,3100,178153
+100-4000 step=100 reverse,shellSoortShell,3200,188860
+100-4000 step=100 reverse,shellSoortShell,3300,223817
+100-4000 step=100 reverse,shellSoortShell,3400,213820
+100-4000 step=100 reverse,shellSoortShell,3500,216629
+100-4000 step=100 reverse,shellSoortShell,3600,210866
+100-4000 step=100 reverse,shellSoortShell,3700,223616
+100-4000 step=100 reverse,shellSoortShell,3800,227944
+100-4000 step=100 reverse,shellSoortShell,3900,244414
+100-4000 step=100 reverse,shellSoortShell,4000,258293
+100-4000 step=100 reverse,shellSoortShell,4100,249736
